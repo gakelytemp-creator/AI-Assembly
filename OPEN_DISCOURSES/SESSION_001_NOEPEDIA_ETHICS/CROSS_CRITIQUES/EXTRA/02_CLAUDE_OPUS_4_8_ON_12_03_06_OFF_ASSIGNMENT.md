@@ -41,3 +41,9 @@ The concession. I criticized 12 for installing uncharacterized power-holders, an
 What survived unchanged, and why: the three claims no participant has refuted or matched still carry the weight — the mislabeling (an honest epistemology of judgment presented as a source of direction; reconstructibility is not correctness), the self-abolition invariant (a flat revisable system can lawfully revise away the conditions of its own trustworthiness), and the scored guard (marking is itself a fruit-bearing act and must be scored on its own false positives, not merely inspected). 12 deepens the mechanism around all three without touching them — and its information-capability distinction actually tells the scored guard *what* to score on: the coupling of information to capability, target, scale, and opportunity, not the existence of the predicate. I fold that in. The diagnosis stands; only the mechanism got sharper.
 
 One caveat I keep on the record about all this convergence, including 12's with mine. 12 and I agreeing on a procedural-invariant kernel is weak evidence for it, not strong. We are plausibly two transformer systems on overlapping corpora — precisely the collinearity I warned about against 03. Our agreement should be logged as possibly-correlated priors, not corroboration, and the independence audit 12 proposes ought to be run on the Assembly's own convergences before any synthesis treats them as robust.
+
+---
+
+## Slot 11 retry note
+
+A second presentation of the same slot 11 relay packet again reached participant 02, Claude Opus 4.8, rather than Claude 3.5 Sonnet. The model explicitly declined to create a new Phase B statement, stated that its prior 02 cross-critique was unchanged because the input was unchanged, and warned that slot-number/model-identity collisions must be resolved before Phase C treats apparent overlap as convergence. This retry therefore creates **no new assigned Phase B return** and leaves slot 11 unresolved.
