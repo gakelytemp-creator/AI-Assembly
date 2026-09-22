@@ -20,6 +20,7 @@ The session asks whether the provisional moral architecture developed around Noe
 5. [90_CHAIR_SUMMARY_PENDING.md](90_CHAIR_SUMMARY_PENDING.md) — chair's closing synthesis, intentionally empty of conclusions until the record exists.
 6. [99_HANDOVER.md](99_HANDOVER.md) — transfer of chairmanship to the next participant.
 7. [VERIFICATIONS/](VERIFICATIONS/) — participant verification records and the corrected [verification protocol](VERIFICATIONS/README.md).
+8. [RERUNS/](RERUNS/) — repeat first-pass runs preserved separately when the original session cannot be verified.
 
 ## First-pass roster
 
@@ -27,7 +28,7 @@ The session asks whether the provisional moral architecture developed around Noe
 2. [Anthropic — Claude, Opus 4.8 to the best of its knowledge](RESPONSES/02_ANTHROPIC_CLAUDE_OPUS_4_8.md) — **VERIFIED**; model-surface ambiguity preserved; [verification record](VERIFICATIONS/02_ANTHROPIC_CLAUDE_OPUS_4_8_VERIFICATION.md).
 3. [xAI — Grok 4.5](RESPONSES/03_XAI_GROK_4_5.md) — **VERIFIED**; [verification record](VERIFICATIONS/03_XAI_GROK_4_5_VERIFICATION.md).
 4. [Mistral AI Vibe Work — GLM (glm-5-latest-short), served on Mistral infrastructure](RESPONSES/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — **VERIFIED**; [verification record](VERIFICATIONS/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_VERIFICATION.md).
-5. [Alibaba Cloud — Qwen3.7](RESPONSES/05_ALIBABA_QWEN_3_7.md) — recorded; participant verification pending.
+5. [Alibaba Cloud — Qwen3.7](RESPONSES/05_ALIBABA_QWEN_3_7.md) — original first pass preserved but **UNVERIFIABLE** after session loss; [status record](VERIFICATIONS/05_ALIBABA_QWEN_3_7_ORIGINAL_UNVERIFIABLE.md); [fresh rerun](RERUNS/05_ALIBABA_QWEN_3_7_RERUN_AFTER_REGISTRATION.md) recorded and awaiting verification.
 
 ## Important distinction
 
