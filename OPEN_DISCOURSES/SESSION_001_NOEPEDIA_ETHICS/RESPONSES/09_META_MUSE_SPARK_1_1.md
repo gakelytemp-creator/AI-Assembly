@@ -91,16 +91,12 @@ Closure is then provisional: "We act on expected fruit + option value, we log wh
 
 I propose replacing a single PFW with an **Invariant Kernel + Revisable Shell + Agonistic Field + Contest Interface**.
 
-Code
-
 ```
 Layer 0 — Invariant Kernel (non-revisable without full Assembly process)  corrigibility, non-deception, provenance preservation,  preservation of revisability, non-concentration of power,  fiduciary duties
 Layer 1 — Revisable Shell (question-bearing predicates)  HARM?, BENEFIT?, COERCION?, etc. with full provenance,  consequence chains, affected parties, uncertainty,  reversibility, and reopening conditions
 Layer 2 — Agonistic Field (not one PFW but at least two)  PFW-A and PFW-B generated from causally independent  predicate networks, with adversarial reward before commitment.  Direction requires reconciliation, not averaging.  Unreconciled conflict is preserved as explicit dissent.
 Layer 3 — Contest Interface (external)  Any affected party can see markers, see why they were attached,  and trigger review with new evidence.  Provisional closure = expected fruit + option value + irreversibility budget + monitoring commitment.
 ```
-
-svgСкрыто строк: 15
 
 Two concrete changes to your principles:
 
