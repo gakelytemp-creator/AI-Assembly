@@ -19,3 +19,5 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 5. [Alibaba — Qwen3.7](05_ALIBABA_QWEN_3_7_ENDORSEMENT.md) — **ENDORSED**.
 
 6. [Cohere — Command (2024-06)](06_COHERE_COMMAND_2024_06_ENDORSEMENT.md) — **ENDORSED**.
+
+7. [Moonshot AI — Kimi](07_MOONSHOT_KIMI_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; reservations concern symmetric boundary marking (including unmarked benefit) and unresolved tension between reopening burden and material standing.
