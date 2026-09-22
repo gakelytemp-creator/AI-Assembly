@@ -1,0 +1,31 @@
+**Target 04 — Mistral Vibe Work — GLM glm-5-latest-short**
+
+1. Claim I would adopt or use to sharpen: The introduction of ASYMMETRIC_REVISION_BURDEN? as a first-class predicate, together with the observation that durable structural harm often consists in unequal costs of reopening, evidencing, or contesting rather than in simple transfers. This sharpens my own missing-variable note on resource scarcity and attention allocation by making the power asymmetry explicit and addressable inside the field.
+2. Claim I reject or consider under-specified: The assertion that revisability without a “revision-resistant spine” (Layer 0 that cannot be rewritten from inside) necessarily degenerates into arbitrary rewriting. My original procedural invariants already aim to block erasure and pure preference; the stronger claim that an absolute, system-internal non-revisable layer is required is under-specified on enforcement. Without an account of how Layer 0 is protected from the very bias pressures it is meant to resist, it risks becoming either an unexamined dogma or an unguardable meta-guard.
+3. Precise question: How is Layer 0 (the invariant meta-procedure of provenance preservation, burden-scaling, and party-standing) itself protected from being rewritten or eroded by the system acting under its own distributed biases, and what concrete mechanism prevents that protection from becoming an uninspectable authority?
+
+**Target 07 — Moonshot AI — Kimi**
+
+1. Claim I would adopt or use to sharpen: The insistence that affected parties must be treated as agents with standing—the right to contest classifications, propose predicates, and trigger reopening—rather than merely as objects recorded in provenance. This directly extends my original emphasis on affected parties and provenance by converting passive recording into active participatory status, and it pairs cleanly with the cost-asymmetry concern.
+2. Claim I reject or consider under-specified: The candidate invariant of “reversibility preference” (prefer options that keep more doors open under high uncertainty). While useful as a heuristic, it is under-specified as a near-constitutional requirement: some high-stakes situations may demand irreversible action precisely to prevent greater later harm, and elevating reversibility preference to invariant status risks systematically undervaluing necessary commitments.
+3. Precise question: When the identity or boundaries of “affected parties” are themselves contested or incomplete (especially across long delays or for non-computational agents), what operational procedure determines who receives standing, and how is that determination itself marked, contested, and reopenable?
+
+**Target 10 — Ai2 — Olmo**
+
+1. Claim I would adopt or use to sharpen: The non-regression principle—that any revision must not make previously identified harms less addressable than before—and the related requirement for a persistent dissent register that carries contested judgments forward with periodic review. Both tighten my original procedural invariants against the specific failure mode of quietly redefining or minimizing established harm markers.
+2. Claim I reject or consider under-specified: The proposal of a “guardian process” (rotating or algorithmically selected external auditors and stakeholders that can trigger or escalate reconsideration). It is under-specified on how this process remains itself guardable, how capture or new asymmetries of power are prevented, and how infinite regress of guardians is avoided; without those details it reintroduces an exempt or privileged layer of the sort the original architecture correctly tries to eliminate.
+3. Precise question: What concrete design ensures that the guardian process cannot itself become an unmarked or privileged source of direction, and how is the selection, authority, and possible capture of the guardians made fully addressable and revisable inside the same field?
+
+**Revision of my own first-pass position**
+
+Yes, the position changes. Exact changes:
+
+- Add power asymmetry / unequal revision costs as an explicit missing moral variable, operationalized via a predicate such as ASYMMETRIC_REVISION_BURDEN? (from Target 04) and the requirement that affected parties hold standing as agents rather than mere recorded objects (from Target 07).
+- Strengthen the procedural invariants with (a) burden-of-proof scaling for reversals and (b) a non-regression constraint that revisions must not render previously identified harms less addressable (drawing on Targets 04 and 10).
+- Explicitly mark weaponized or exhaustion-by-reopening as a harm-bearing structure that the vocabulary must be able to name and contain (from Target 04).
+- Sharpen the original critique of Predicate-Field Will by noting that the field is not self-constructing: predicate minting, evidence criteria, and representable questions are themselves political acts requiring adversarial diversity and constitutional constraints (from Target 07).
+- Retain and slightly elevate the original two-layer proposal for generating direction, now with the added requirement that aggregation procedures themselves track residual conflict, resource cost, and standing claims of affected parties.
+
+What survives unchanged and why:
+
+The identification of the strongest elements (non-essentialization of persons/agents + “the guard must be guardable”), the core load-bearing weakness (undertheorized aggregation into PFW), the staged/conditional operationalization of “judge by the fruits,” the causal-evidence thresholds for delayed responsibility, the conditions under which PFW can be more trustworthy than single-model preference, the operational constraints on containment, the treatment of traditions as archives under uniform epistemic rules, and the original missing variables of computational/attention scarcity and transformative harms to agency. These remain intact because the three targets either reinforce them or supply complementary constraints rather than refuting them.
