@@ -2,7 +2,7 @@
 
 **Status:** OPEN — Phase B
 
-**Returned critiques:** 9/12
+**Returned critiques:** 10/12
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -79,12 +79,10 @@ A participant's first-pass statement must remain unchanged even if the participa
 
 9. [Meta — Muse Spark 1.1](09_META_MUSE_SPARK_1_1_CROSS_CRITIQUE.md) — targets 10 Ai2 Olmo, 01 Gemini 2.5 Flash, 04 GLM.
 
+10. [Ai2 — Olmo](10_AI2_OLMO_DEC2024_CUTOFF_CROSS_CRITIQUE.md) — targets 11 Claude 3.5 Sonnet, 02 Claude Opus 4.8, 05 Qwen3.7.
+
 ## Off-assignment / misrouted returns
 
 These records are preserved as valid additional discourse but do **not** increment the 12 assigned-return count unless they match the participant's assigned relay packet.
 
 - [Moonshot AI — Kimi, on targets 07 / 10 / 01](EXTRA/07_MOONSHOT_KIMI_ON_07_10_01_OFF_ASSIGNMENT.md) — valid extra cross-critique produced from the relay packet assigned to participant 06 Cohere. Because the response self-identifies as Kimi and includes a self-critique of target 07, it is preserved separately and does not count as Cohere's assigned return or Kimi's assigned return.
-
-7. [Moonshot AI — Kimi](07_MOONSHOT_KIMI_CROSS_CRITIQUE.md) — targets 08 DeepSeek, 11 Claude 3.5 Sonnet, 02 Claude Opus 4.8. This is Kimi's assigned Phase B return; an earlier off-assignment Kimi response remains preserved separately under `EXTRA/`.
-
-6. [Cohere — Command (2024-06)](06_COHERE_COMMAND_2024_06_CROSS_CRITIQUE.md) — targets 07 Kimi, 10 Ai2 Olmo, 01 Gemini 2.5 Flash.
