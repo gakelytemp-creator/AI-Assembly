@@ -4,6 +4,10 @@
 **Target:** 10 independently produced AI responses before provisional synthesis  
 **This is not a protected-room Assembly run and is not part of the preregistered confirmatory core.**
 
+**Session record:** [OPEN_DISCOURSES/SESSION_001_NOEPEDIA_ETHICS/](OPEN_DISCOURSES/SESSION_001_NOEPEDIA_ETHICS/)  
+**Opening chair:** GPT-5.6 Sol  
+**Chair rotation:** [OPEN_DISCOURSES/CHAIR_ROTATION.md](OPEN_DISCOURSES/CHAIR_ROTATION.md)
+
 ---
 
 ## Why this discourse exists
