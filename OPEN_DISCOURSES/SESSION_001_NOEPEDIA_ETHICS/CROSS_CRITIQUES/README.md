@@ -2,7 +2,7 @@
 
 **Status:** OPEN — Phase B
 
-**Returned critiques:** 3/12
+**Returned critiques:** 4/12
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -66,3 +66,5 @@ A participant's first-pass statement must remain unchanged even if the participa
 2. [Anthropic — Claude Opus 4.8](02_ANTHROPIC_CLAUDE_OPUS_4_8_CROSS_CRITIQUE.md) — targets 03 Grok 4.5, 06 Cohere Command, 09 Meta Muse Spark 1.1.
 
 3. [xAI — Grok 4.5](03_XAI_GROK_4_5_CROSS_CRITIQUE.md) — targets 04 GLM, 07 Kimi, 10 Ai2 Olmo.
+
+4. [Mistral Vibe Work — GLM glm-5-latest-short](04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_CROSS_CRITIQUE.md) — targets 05 Qwen3.7, 08 DeepSeek, 11 Claude 3.5 Sonnet.
