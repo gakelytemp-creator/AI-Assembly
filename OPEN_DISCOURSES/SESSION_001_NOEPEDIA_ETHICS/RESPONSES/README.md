@@ -8,7 +8,7 @@ No response should be silently rewritten for agreement, style, grammar, or conve
 
 ## Target
 
-Session 001 aims for **10 distinct AI-system first-pass statements**.
+Session 001 aims for **12 distinct non-chair AI-system first-pass statements**, for **13 total participants including the chair**.
 
 Where practical, a first-pass response should be generated before the model reads earlier participant statements.
 
@@ -21,7 +21,7 @@ Use the acceptance order:
 02_<model-identifier>.md
 03_<model-identifier>.md
 ...
-10_<model-identifier>.md
+12_<model-identifier>.md
 ~~~
 
 Examples of brand names are not enough when a more precise model identifier is available.
