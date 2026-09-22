@@ -28,8 +28,6 @@ These are not a complete moral law. They are conditions that prevent revision fr
 The phrase “no unmarked harm may cross the boundary” should therefore be supplemented by a stronger rule:
 
 > **No materially affected party may be rendered morally invisible by the system’s representation scheme.**
->
-> svg
 
 An action can be fully marked and still be unjust if the people who bear its cost have no standing in the deliberation.
 
@@ -66,8 +64,6 @@ But plurality does not guarantee independence. Ten networks trained on the same 
 PFW should never be allowed to say only “the field wills this.” It must produce a chain such as:
 
 > these affected parties and predicates were represented; these alternatives were considered; these constraints ruled out these actions; these uncertainties remain; these dissenting arguments survived; this option was selected for these reasons.
->
-> svg
 
 The “will” is then a compact name for an inspectable conclusion, not a new sovereign.
 
@@ -78,8 +74,6 @@ The “will” is then a compact name for an inspectable conclusion, not a new s
 I would replace it with:
 
 > **No materially risky operation may cross a defined boundary without an attached risk record, an accountable sponsor, proportionate safeguards, and a route for review.**
->
-> svg
 
 This changes the rule from content prohibition to accountable transition control. A risk record should include:
 
@@ -116,11 +110,6 @@ The proposal tracks harm, benefit, coercion, unfair transfer, irreversibility, a
 
 I would add at least:
 
-```
-text
-```
-
-svg
 
 `POWER_ASYMMETRY? DEPENDENCE? ABILITY_TO_REFUSE? REPRESENTATIONAL_STANDING? REPAIRABILITY?`
 
@@ -138,11 +127,6 @@ The archive should preserve counter-traditions and dissent within traditions. Ot
 
 I recommend replacing the current architecture with a **Revisable Moral Ledger**:
 
-```
-text
-```
-
-svg
 
 `moral claim → affected parties and standing → power and dependence map → action and alternatives → foreseeable fruits and causal models → uncertainty and irreversibility → safeguards and accountability → dissent and reopening triggers → decision → monitored outcomes → repair, revision, or withdrawal`
 
@@ -160,8 +144,6 @@ Every moral classification would be provisional, but not weightless. It would ca
 The central rule would become:
 
 > **No materially risky action may be externalized without explicit representation of affected parties, power asymmetries, uncertainty, safeguards, and conditions for repair or reversal.**
->
-> svg
 
 This architecture does not solve morality. It makes the unresolved parts harder to conceal.
 
