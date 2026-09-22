@@ -4,6 +4,8 @@
 
 These records preserve participant endorsement responses verbatim or faithfully, including reservations and provenance corrections.
 
+**Endorsement round status:** COMPLETE. Original participant 11 is recorded as **NO RESPONSE**; replacement 11R remains separate.
+
 The substantive Chair Summary is held stable during the endorsement round. Reservations are recorded here rather than silently editing the synthesis between participants. After the round, the chair may append a clearly versioned amendment/final-status section.
 
 ## Returned endorsements
@@ -28,6 +30,8 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 
 10. [Ai2 — Olmo](10_AI2_OLMO_ENDORSEMENT.md) — **ENDORSED**; participant returned `ENDORSEMENT: YES`, preserved verbatim and interpreted as an unambiguous endorsement.
 
+11. [Anthropic — Claude 3.5 Sonnet (original participant)](11_ANTHROPIC_CLAUDE_3_5_SONNET_NO_RESPONSE.md) — **NO RESPONSE**; no view inferred.
+
 11R. [NVIDIA — Nemotron 3 Ultra 550B-A55B](11R_NVIDIA_NEMOTRON_3_ULTRA_550B_A55B_ENDORSEMENT.md) — **ENDORSED**; replacement participant only, not original participant 11.
 
-12. [Perplexity — endorsement attempt 1](12_PERPLEXITY_ATTEMPT_1_UNVERIFIABLE.md) — **UNVERIFIABLE**; source URLs could not be retrieved, so no endorsement status is recorded yet.
+12. [Perplexity](12_PERPLEXITY_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; [attempt 1](12_PERPLEXITY_ATTEMPT_1_UNVERIFIABLE.md) was unverifiable because the source URLs could not be retrieved.
