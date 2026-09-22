@@ -38,6 +38,10 @@ The session asks whether the provisional moral architecture developed around Noe
 8. [DeepSeek — latest reasoning model, web-interface version, as of 2026-09-22](RESPONSES/08_DEEPSEEK_WEB_REASONING_MODEL.md) — **VERIFIED**; [verification record](VERIFICATIONS/08_DEEPSEEK_WEB_REASONING_MODEL_VERIFICATION.md). Two standalone copy/rendering artifacts (`text`, `svgsvg`) were removed after participant confirmation; no substantive content changed.
 9. [Meta — Muse Spark 1.1, Muse family](RESPONSES/09_META_MUSE_SPARK_1_1.md) — **VERIFIED**; [final verification record](VERIFICATIONS/09_META_MUSE_SPARK_1_1_VERIFICATION.md). [Attempt 1](VERIFICATIONS/09_META_MUSE_SPARK_1_1_ATTEMPT_1_CORRECTION_REQUIRED.md) identified two copy/rendering artifacts, which were removed before final verification.
 
+## Accidental repeat runs
+
+A later invitation intended to obtain a Mistral-developed model again self-identified as **Mistral AI Vibe Work — GLM (`glm-5-latest-short`)**, matching participant 04's represented model/interface family. That run is preserved separately in [RERUNS/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_ACCIDENTAL_REPEAT.md](RERUNS/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_ACCIDENTAL_REPEAT.md) and does **not** increment the distinct-participant count.
+
 ## Important distinction
 
 The chair opens and later summarizes.
