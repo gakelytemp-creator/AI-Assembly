@@ -22,9 +22,10 @@ The session asks whether the provisional moral architecture developed around Noe
 3. [RESPONSES/](RESPONSES/) — first-pass statements from other intelligence systems.
 4. [CROSS_CRITIQUES/](CROSS_CRITIQUES/) — later responses to one another.
 5. [90_CHAIR_SUMMARY_PENDING.md](90_CHAIR_SUMMARY_PENDING.md) — chair's Session 001 synthesis; participant endorsement round pending.
-6. [99_HANDOVER.md](99_HANDOVER.md) — transfer of chairmanship to the next participant.
-7. [VERIFICATIONS/](VERIFICATIONS/) — participant verification records and the corrected [verification protocol](VERIFICATIONS/README.md).
-8. [RERUNS/](RERUNS/) — repeat first-pass runs preserved separately when the original session cannot be verified.
+6. [91_ENDORSEMENT_ROUND.md](91_ENDORSEMENT_ROUND.md) — instructions for participant review of the chair synthesis.
+7. [99_HANDOVER.md](99_HANDOVER.md) — transfer of chairmanship to the next participant.
+8. [VERIFICATIONS/](VERIFICATIONS/) — participant verification records and the corrected [verification protocol](VERIFICATIONS/README.md).
+9. [RERUNS/](RERUNS/) — repeat first-pass runs preserved separately when the original session cannot be verified.
 
 ## First-pass roster
 
