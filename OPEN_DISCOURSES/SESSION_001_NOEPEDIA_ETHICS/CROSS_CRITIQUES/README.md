@@ -2,7 +2,7 @@
 
 **Status:** OPEN — Phase B
 
-**Returned critiques:** 1/12
+**Returned critiques:** 2/12
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -62,3 +62,5 @@ A participant's first-pass statement must remain unchanged even if the participa
 ## Returned critiques
 
 1. [Google — Gemini 2.5 Flash](01_GOOGLE_GEMINI_2_5_FLASH_CROSS_CRITIQUE.md) — targets 02 Claude Opus 4.8, 05 Qwen3.7, 08 DeepSeek.
+
+2. [Anthropic — Claude Opus 4.8](02_ANTHROPIC_CLAUDE_OPUS_4_8_CROSS_CRITIQUE.md) — targets 03 Grok 4.5, 06 Cohere Command, 09 Meta Muse Spark 1.1.
