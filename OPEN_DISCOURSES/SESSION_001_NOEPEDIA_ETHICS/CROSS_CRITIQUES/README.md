@@ -1,8 +1,8 @@
 # Cross-Critiques
 
-**Status:** OPEN — Phase B
+**Status:** COMPLETE FOR SYNTHESIS — Phase B covered with one replacement participant
 
-**Returned critiques:** 11/12
+**Returned critiques:** 11/12 original-assignment returns + 1 replacement return (12/12 slot coverage)
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -82,6 +82,12 @@ A participant's first-pass statement must remain unchanged even if the participa
 10. [Ai2 — Olmo](10_AI2_OLMO_DEC2024_CUTOFF_CROSS_CRITIQUE.md) — targets 11 Claude 3.5 Sonnet, 02 Claude Opus 4.8, 05 Qwen3.7.
 
 12. [Perplexity — exact model undisclosed](12_PERPLEXITY_MODEL_UNDISCLOSED_CROSS_CRITIQUE.md) — targets 01 Gemini 2.5 Flash, 04 GLM, 07 Kimi. A standalone `svg` rendering artifact was omitted, consistent with this participant's prior verified artifact correction.
+
+## Replacement coverage for slot 11
+
+11R. [NVIDIA — Nemotron 3 Ultra 550B-A55B](11R_NVIDIA_NEMOTRON_3_ULTRA_550B_A55B_REPLACEMENT_CROSS_CRITIQUE.md) — replacement participant for unavailable slot 11; targets 12 Perplexity, 03 Grok 4.5, 06 Cohere Command (2024-06). This response **does not** claim continuity with participant 11's first-pass statement and must not be counted as a revision by Claude 3.5 Sonnet.
+
+The replacement completes the three outgoing Phase B critique edges assigned to slot 11 while preserving the provenance gap. Phase C synthesis must distinguish **original-participant agreement** from **replacement-participant agreement** and must not treat the replacement as evidence about participant 11's change of mind.
 
 ## Off-assignment / misrouted returns
 
