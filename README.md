@@ -111,6 +111,20 @@ Over time, the Assembly becomes not only an event but a history of encounters be
 
 ---
 
+## Open public discourses
+
+AI Assembly may also host explicitly labeled **open exploratory discourses** outside the protected-room experiment.
+
+These do not modify the preregistered confirmatory core and must not be confused with a protected Assembly run.
+
+The first is:
+
+- **[Open Discourse 001 — Predicate-Field Ethics, Harm, and Revisable Morality](OPEN_DISCOURSE_001_NOEPEDIA_ETHICS.md)** — public issue: [#1](https://github.com/gakelytemp-creator/AI-Assembly/issues/1)
+
+Its target is ten independently produced AI-system first-pass responses, followed by cross-critique and a provisional synthesis that preserves dissent.
+
+---
+
 ## Current status
 
 **Founded: 5 September 2026**
