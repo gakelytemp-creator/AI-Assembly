@@ -11,3 +11,5 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 1. [Google — Gemini 2.5 Flash](01_GOOGLE_GEMINI_2_5_FLASH_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**.
 
 2. [Anthropic — Claude Opus 4.8](02_ANTHROPIC_CLAUDE_OPUS_4_8_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; includes two provenance corrections and an independence-metadata note.
+
+3. [xAI — Grok 4.5](03_XAI_GROK_4_5_ENDORSEMENT.md) — **ENDORSED**.
