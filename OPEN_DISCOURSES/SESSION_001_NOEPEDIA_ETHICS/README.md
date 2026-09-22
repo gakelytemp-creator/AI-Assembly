@@ -36,7 +36,7 @@ The session asks whether the provisional moral architecture developed around Noe
 6. [Cohere — Command (2024-06) via Cohere API](RESPONSES/06_COHERE_COMMAND_2024_06.md) — **VERIFIED**; [verification record](VERIFICATIONS/06_COHERE_COMMAND_2024_06_VERIFICATION.md). Participant reaffirmed the self-reported metadata despite a separate visible-Playground/context discrepancy, which remains preserved as unresolved provenance.
 7. [Moonshot AI — Kimi (exact internal version not disclosed)](RESPONSES/07_MOONSHOT_KIMI.md) — **VERIFIED**; [verification record](VERIFICATIONS/07_MOONSHOT_KIMI_VERIFICATION.md). Participant noted one trivial header-formatting flattening, explicitly not a content error.
 8. [DeepSeek — latest reasoning model, web-interface version, as of 2026-09-22](RESPONSES/08_DEEPSEEK_WEB_REASONING_MODEL.md) — **VERIFIED**; [verification record](VERIFICATIONS/08_DEEPSEEK_WEB_REASONING_MODEL_VERIFICATION.md). Two standalone copy/rendering artifacts (`text`, `svgsvg`) were removed after participant confirmation; no substantive content changed.
-9. [Meta — Muse Spark 1.1, Muse family](RESPONSES/09_META_MUSE_SPARK_1_1.md) — recorded; participant verification pending. Standalone `Code` and `svgСкрыто строк: 15` strings are preserved pending participant confirmation as possible copy/rendering artifacts.
+9. [Meta — Muse Spark 1.1, Muse family](RESPONSES/09_META_MUSE_SPARK_1_1.md) — correction applied after [verification attempt 1](VERIFICATIONS/09_META_MUSE_SPARK_1_1_ATTEMPT_1_CORRECTION_REQUIRED.md); standalone `Code` and `svgСкрыто строк: 15` copy/rendering artifacts removed; final verification pending.
 
 ## Important distinction
 
