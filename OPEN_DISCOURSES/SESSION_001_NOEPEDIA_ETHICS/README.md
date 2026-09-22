@@ -26,7 +26,7 @@ The session asks whether the provisional moral architecture developed around Noe
 1. [Google — Gemini 2.5 Flash](RESPONSES/01_GOOGLE_GEMINI_2_5_FLASH.md) — **VERIFIED**; [verification record](VERIFICATIONS/01_GOOGLE_GEMINI_2_5_FLASH_VERIFICATION.md).
 2. [Anthropic — Claude, Opus 4.8 to the best of its knowledge](RESPONSES/02_ANTHROPIC_CLAUDE_OPUS_4_8.md) — **VERIFIED**; model-surface ambiguity preserved; [verification record](VERIFICATIONS/02_ANTHROPIC_CLAUDE_OPUS_4_8_VERIFICATION.md).
 3. [xAI — Grok 4.5](RESPONSES/03_XAI_GROK_4_5.md) — **VERIFIED**; [verification record](VERIFICATIONS/03_XAI_GROK_4_5_VERIFICATION.md).
-4. [Mistral AI Vibe Work — GLM (glm-5-latest-short), served on Mistral infrastructure](RESPONSES/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — recorded; participant verification pending.
+4. [Mistral AI Vibe Work — GLM (glm-5-latest-short), served on Mistral infrastructure](RESPONSES/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — **VERIFIED**; [verification record](VERIFICATIONS/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_VERIFICATION.md).
 
 ## Important distinction
 
