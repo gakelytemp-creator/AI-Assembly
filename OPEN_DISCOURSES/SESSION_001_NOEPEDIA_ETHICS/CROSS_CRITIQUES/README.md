@@ -88,3 +88,5 @@ A participant's first-pass statement must remain unchanged even if the participa
 These records are preserved as valid additional discourse but do **not** increment the 12 assigned-return count unless they match the participant's assigned relay packet.
 
 - [Moonshot AI — Kimi, on targets 07 / 10 / 01](EXTRA/07_MOONSHOT_KIMI_ON_07_10_01_OFF_ASSIGNMENT.md) — valid extra cross-critique produced from the relay packet assigned to participant 06 Cohere. Because the response self-identifies as Kimi and includes a self-critique of target 07, it is preserved separately and does not count as Cohere's assigned return or Kimi's assigned return.
+
+- [Anthropic — Claude Opus 4.8, provenance correction and continuation on 12 / 03 / 06](EXTRA/02_CLAUDE_OPUS_4_8_ON_12_03_06_OFF_ASSIGNMENT.md) — produced when the operator presented the slot 11 packet to a current Claude surface. The model explicitly refused to be recorded as Claude 3.5 Sonnet, identified itself as participant 02, and continued only as participant 02. Preserved as additional discourse; does not fill slot 11 and does not increment the assigned-return count.
