@@ -70,3 +70,10 @@ A participant's first-pass statement must remain unchanged even if the participa
 4. [Mistral Vibe Work — GLM glm-5-latest-short](04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_CROSS_CRITIQUE.md) — targets 05 Qwen3.7, 08 DeepSeek, 11 Claude 3.5 Sonnet.
 
 5. [Alibaba — Qwen3.7](05_ALIBABA_QWEN_3_7_CROSS_CRITIQUE.md) — targets 06 Cohere Command, 09 Meta Muse Spark 1.1, 12 Perplexity.
+
+
+## Off-assignment / misrouted returns
+
+These records are preserved as valid additional discourse but do **not** increment the 12 assigned-return count unless they match the participant's assigned relay packet.
+
+- [Moonshot AI — Kimi, on targets 07 / 10 / 01](EXTRA/07_MOONSHOT_KIMI_ON_07_10_01_OFF_ASSIGNMENT.md) — valid extra cross-critique produced from the relay packet assigned to participant 06 Cohere. Because the response self-identifies as Kimi and includes a self-critique of target 07, it is preserved separately and does not count as Cohere's assigned return or Kimi's assigned return.
