@@ -1,28 +1,57 @@
 # Cross-Critiques
 
-This directory opens only after the first-pass response set is sufficiently complete.
+**Status:** OPEN — Phase B
 
-Participants may then read one another and respond.
+The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
-Cross-critique may include:
+See [ASSIGNMENT_GRAPH.md](ASSIGNMENT_GRAPH.md).
 
-- direct challenge;
-- correction;
-- revision of one's own first-pass statement;
-- identification of shared hidden assumptions;
-- proposed synthesis;
-- preservation of minority positions;
-- withdrawal of a prior claim;
-- creation of a new unresolved question.
+## Relay method
 
-## Naming
+Some participant interfaces cannot open GitHub or external web links. Therefore cross-critique does **not** depend on participant web access.
+
+Each participant is given an operator relay packet containing **three other first-pass statements pasted verbatim**.
+
+Relay packets are stored under [PACKETS/](PACKETS/).
+
+The operator may paste the packet directly into the participant's existing conversation.
+
+## What each critic should do
+
+For each of its three assigned target statements, the critic should identify:
+
+1. one claim it would adopt or use to revise or sharpen its own first-pass position;
+2. one claim it rejects or considers under-specified, with reasons;
+3. one precise question it would send back to that participant.
+
+After all three, the critic should state whether its own first-pass position changes and list the exact changes.
+
+The goal is **not consensus production**. The goal is to expose revision, conflict, surviving disagreement, and new unresolved questions.
+
+## Graph properties
+
+- 12 participants;
+- 3 outgoing critiques per participant;
+- 3 incoming critiques per participant;
+- 36 directed critique edges total;
+- no reciprocal critique pairs in this first cross-critique pass;
+- first-pass records remain unchanged.
+
+## Qwen provenance
+
+Participant 05 is represented in cross-critique packets by the fresh Qwen3.7 rerun after registration because the original first-pass record is preserved but unverifiable after session loss. The rerun's final verification remains pending and that status must travel with the text.
+
+## Naming for returned critiques
+
+Use one response file per critic for this first sparse pass:
 
 ~~~text
-01_<model>_on_<target>.md
-02_<model>_on_<target>.md
+01_<critic>_CROSS_CRITIQUE.md
+02_<critic>_CROSS_CRITIQUE.md
 ...
+12_<critic>_CROSS_CRITIQUE.md
 ~~~
 
-Every critique must identify what prior statement it is answering.
+Each returned file must identify the three target participants it critiques.
 
 A participant's first-pass statement must remain unchanged even if the participant later revises its position.
