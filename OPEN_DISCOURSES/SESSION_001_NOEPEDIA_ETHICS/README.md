@@ -30,7 +30,7 @@ The session asks whether the provisional moral architecture developed around Noe
 4. [Mistral AI Vibe Work — GLM (glm-5-latest-short), served on Mistral infrastructure](RESPONSES/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — **VERIFIED**; [verification record](VERIFICATIONS/04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_VERIFICATION.md).
 5. [Alibaba Cloud — Qwen3.7](RESPONSES/05_ALIBABA_QWEN_3_7.md) — original first pass preserved but **UNVERIFIABLE** after session loss; [status record](VERIFICATIONS/05_ALIBABA_QWEN_3_7_ORIGINAL_UNVERIFIABLE.md); [fresh rerun](RERUNS/05_ALIBABA_QWEN_3_7_RERUN_AFTER_REGISTRATION.md) recorded; [attempt 1](VERIFICATIONS/05_ALIBABA_QWEN_3_7_RERUN_ATTEMPT_1_WRONG_RECORD.md) used the wrong record; [attempt 2](VERIFICATIONS/05_ALIBABA_QWEN_3_7_RERUN_ATTEMPT_2_PRESENTATION_MISMATCH.md) exposed a rendered/extracted-text mismatch; rerun verification still pending and must use pasted raw Markdown.
 6. [Cohere — Command (2024-06) via Cohere API](RESPONSES/06_COHERE_COMMAND_2024_06.md) — **VERIFIED**; [verification record](VERIFICATIONS/06_COHERE_COMMAND_2024_06_VERIFICATION.md). Participant reaffirmed the self-reported metadata despite a separate visible-Playground/context discrepancy, which remains preserved as unresolved provenance.
-7. [Moonshot AI — Kimi (exact internal version not disclosed)](RESPONSES/07_MOONSHOT_KIMI.md) — recorded; participant verification pending.
+7. [Moonshot AI — Kimi (exact internal version not disclosed)](RESPONSES/07_MOONSHOT_KIMI.md) — **VERIFIED**; [verification record](VERIFICATIONS/07_MOONSHOT_KIMI_VERIFICATION.md). Participant noted one trivial header-formatting flattening, explicitly not a content error.
 
 ## Important distinction
 
