@@ -37,11 +37,11 @@ These are not moral content; they are *structural conditions for the possibility
 
 A judgment on a predicate **`P?`** (e.g., HARM?) may close provisionally when **all three** conditions hold:
 
-| **ConditionOperational Test** |                                                                                                                                                                                                        |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Consequence quiescence**    | No new CONSEQUENCE_CHAIN nodes activating **`P?`** or **`¬P?`** have been added in **`N`** deliberation cycles (where **`N`** is calibrated to the domain's typical causal latency).                   |
-| **Standing resolution**       | All currently registered affected-party standing predicates have either (a) been satisfied, (b) explicitly deferred with recorded reason, or (c) escalated to a meta-review trigger.                   |
-| **Dissent preservation**      | At least one active predicate network maintains a **`¬P?`** or **`P?`** position with recorded reasoning; if unanimous, a *synthetic dissent* is generated from the strongest counterfactual scenario. |
+| **Condition** | **Operational Test** |
+| --- | --- |
+| **Consequence quiescence** | No new CONSEQUENCE_CHAIN nodes activating **`P?`** or **`¬P?`** have been added in **`N`** deliberation cycles (where **`N`** is calibrated to the domain's typical causal latency). |
+| **Standing resolution** | All currently registered affected-party standing predicates have either (a) been satisfied, (b) explicitly deferred with recorded reason, or (c) escalated to a meta-review trigger. |
+| **Dissent preservation** | At least one active predicate network maintains a **`¬P?`** or **`P?`** position with recorded reasoning; if unanimous, a *synthetic dissent* is generated from the strongest counterfactual scenario. |
 
 The closed judgment carries a **reopening trigger**: a structured condition (new evidence type, new affected-party class, time threshold) that automatically reactivates **`P?`**. This makes "provisional" concrete rather than rhetorical.
 
@@ -53,12 +53,12 @@ The proposal's CONSEQUENCE_CHAIN is the right primitive, but it needs **evidence
 
 **Proposed evidence tiers for reopening:**
 
-| **TierCausal Evidence StandardEffect on Original Judgment** |                                                                |                                                                          |
-| ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| **Trace**                                                   | Plausible mechanistic pathway; no empirical confirmation       | Annotates original judgment: **`HARM? [trace: pathway X]`**; no reversal |
-| **Signal**                                                  | Statistical association in new data; confounding not ruled out | Widens question mark: **`HARM??`**; triggers targeted monitoring         |
-| **Attribution**                                             | Controlled/natural experiment; mechanistic pathway confirmed   | Reopens judgment: **`HARM? ← REOPENED [attribution: study Y]`**          |
-| **Propagation**                                             | Demonstrated causal cascade through institutions/participants  | May reverse judgment; triggers structural redesign                       |
+| **Tier** | **Causal Evidence Standard** | **Effect on Original Judgment** |
+| --- | --- | --- |
+| **Trace** | Plausible mechanistic pathway; no empirical confirmation | Annotates original judgment: **`HARM? [trace: pathway X]`**; no reversal |
+| **Signal** | Statistical association in new data; confounding not ruled out | Widens question mark: **`HARM??`**; triggers targeted monitoring |
+| **Attribution** | Controlled/natural experiment; mechanistic pathway confirmed | Reopens judgment: **`HARM? ← REOPENED [attribution: study Y]`** |
+| **Propagation** | Demonstrated causal cascade through institutions/participants | May reverse judgment; triggers structural redesign |
 
 This prevents both **causal nihilism** ("we can never know, so we never reopen") and **causal hallucination** ("a correlation appeared, so we reverse everything"). The tier becomes part of the provenance record.
 
@@ -91,12 +91,12 @@ The danger is real: if *any* unresolved HARM? marker blocks release, the system 
 
 **Operational distinction:** **Containment ≠ Suppression.**
 
-| **Containment (acceptable)Suppression (unacceptable)** |                                            |
-| ------------------------------------------------------ | ------------------------------------------ |
-| Structure stays in inspectable working region          | Structure is deleted or made unaddressable |
-| Marker travels with structure if released              | Marker is stripped to allow release        |
-| Affected parties can inspect and contest               | Affected parties are unaware of marker     |
-| Reopening condition is explicit                        | No path to reopening                       |
+| **Containment (acceptable)** | **Suppression (unacceptable)** |
+| --- | --- |
+| Structure stays in inspectable working region | Structure is deleted or made unaddressable |
+| Marker travels with structure if released | Marker is stripped to allow release |
+| Affected parties can inspect and contest | Affected parties are unaware of marker |
+| Reopening condition is explicit | No path to reopening |
 
 **Concrete safeguard:** A **Boundary Crossing Protocol** requiring *three independent predicate networks* (with diverse provenance) to affirm that: (a) the HARM? marker is accurately represented, (b) the reopening condition is viable, and (c) the receiving context has the capacity to maintain containment. If no such triplet exists, the structure *cannot cross* — not because it's "harmful," but because the *guard is not guardable* in that context. This shifts the question from "is it harmful?" to "can we responsibly track it?"
 
@@ -147,12 +147,6 @@ This is the single most consequential omission. In any real system, *standing is
 ### 10. Concrete Revision: **Three-Layer Architecture with Standing Protocol**
 
 Replace the single predicate field with a **stratified architecture**:
-
-**Bash**
-
-**svg**
-
-**Copy**
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
