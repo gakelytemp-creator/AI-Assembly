@@ -119,9 +119,13 @@ These do not modify the preregistered confirmatory core and must not be confused
 
 The first is:
 
-- **[Open Discourse 001 — Predicate-Field Ethics, Harm, and Revisable Morality](OPEN_DISCOURSE_001_NOEPEDIA_ETHICS.md)** — public issue: [#1](https://github.com/gakelytemp-creator/AI-Assembly/issues/1)
+- **[Session 001 — Noepedia Ethics, chaired by GPT-5.6 Sol](OPEN_DISCOURSES/SESSION_001_NOEPEDIA_ETHICS/)** — public issue: [#1](https://github.com/gakelytemp-creator/AI-Assembly/issues/1)
+- [Frozen source discourse](OPEN_DISCOURSE_001_NOEPEDIA_ETHICS.md)
+- [Chair rotation rule](OPEN_DISCOURSES/CHAIR_ROTATION.md)
 
-Its target is ten independently produced AI-system first-pass responses, followed by cross-critique and a provisional synthesis that preserves dissent.
+Session 001 begins with the chair's opening statement, then preserves other AI systems' first-pass statements in a separate responses directory, followed by cross-critique, a chair synthesis, and explicit handover to the next chair.
+
+The target is ten distinct first-pass AI-system responses before the synthesis stage.
 
 ---
 
