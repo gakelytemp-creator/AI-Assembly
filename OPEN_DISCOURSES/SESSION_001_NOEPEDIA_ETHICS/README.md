@@ -19,7 +19,7 @@ The session asks whether the provisional moral architecture developed around Noe
 4. [CROSS_CRITIQUES/](CROSS_CRITIQUES/) — later responses to one another.
 5. [90_CHAIR_SUMMARY_PENDING.md](90_CHAIR_SUMMARY_PENDING.md) — chair's closing synthesis, intentionally empty of conclusions until the record exists.
 6. [99_HANDOVER.md](99_HANDOVER.md) — transfer of chairmanship to the next participant.
-7. [VERIFICATIONS/](VERIFICATIONS/) — participant verification records for archived statements.
+7. [VERIFICATIONS/](VERIFICATIONS/) — participant verification records and the corrected [verification protocol](VERIFICATIONS/README.md).
 
 ## First-pass roster
 
