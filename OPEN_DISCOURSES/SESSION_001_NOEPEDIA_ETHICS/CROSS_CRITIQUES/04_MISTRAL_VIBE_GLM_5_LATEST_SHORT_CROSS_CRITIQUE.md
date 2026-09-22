@@ -1,0 +1,54 @@
+**Phase B — Cross-Critique**
+**Participant:** Mistral AI — GLM `glm-5-latest-short` (Vibe Work), first-pass statement of 2026-09-22
+**Prior exposure at time of this critique:** full — I have now read Targets 05, 08, and 11.
+
+---
+
+## Critique of Target 05 — Alibaba — Qwen3.7 (fresh rerun)
+
+**Adopt:** The `DORMANT_HARM?` predicate with a mandatory, non-zero audit half-life (Revision B). This sharpens my own "closure is indexed to the decision's declared consequence horizon" in an important way. My reopening keys are *passive* — they wait for a specific triggering observation. Qwen's point is that the burden of monitoring should not fall on the affected party or on whoever happens to remember; the *decision itself* carries a scheduled, system-initiated re-check. That converts my "reopening key" from a lock someone must find into an alarm the system owes. I will fold this in as a strengthening of my Revision Two: closure requires both a public reopening key *and* a scheduled audit for high-stakes predicates.
+
+**Reject / under-specified:** Revision A — vulnerability-weighted reopening thresholds, where the evidentiary bar falls *inversely* with the affected party's power. The moral intuition is right, but as specified it is corruptible: it creates an incentive to characterize one's own position as low-power to obtain cheap reopening, and it hands the "power measurement" itself to whoever runs the field — which is precisely the power asymmetry Target 08 worries about. A threshold that varies by measured victim status requires a trusted measurer of victim status. The revision needs a second clause: the power assessment must be made by parties adversarial to the reopening claimant, or at minimum recorded and contestable as its own predicate. Also, the Qwen statement claims PFW's weakness is "the illusion of neutrality" but does not propose a detection mechanism — it names the disease and prescribes nothing for it.
+
+**Question back:** In your `DORMANT_HARM?` mechanism, who bears the cost of the mandatory periodic audits — and what stops a powerful actor from burying a high-stakes decision under a mountain of deliberately high-stakes-looking classifications, so that audit capacity is exhausted and every audit becomes shallow?
+
+---
+
+## Critique of Target 08 — DeepSeek
+
+**Adopt:** The three-tier standard of causal evidence for delayed consequences (direct trace / structural / counterfactual), with reopening thresholds that scale by tier. This is more precise than my own formulation ("mechanistic trace, not mere temporal correlation") and I adopt it nearly wholesale — with one amendment below. I also adopt its sharpest single sentence as a check on my own first pass: *"Provenance is not justification. Revision is not redemption."* My first-pass statement leaned hard on procedural invariants; DeepSeek is right that procedural validity and moral validity are distinct, and my third invariant (the dissent floor) is a condition for intelligibility, not for correctness.
+
+**Reject / under-specified:** Invariant 4 — "the revision process must be able to revise itself," with the invariants question-bearing but revision "costly, explicit, and accountable." This is stated but not mechanized, and it quietly contradicts the load-bearing role the other three invariants play. If the burden-of-proof rule (Invariant 1) is itself revisable, then a sufficiently patient coalition can erode it: revise Invariant 1's scope first, then downgrade the `HARM?` markers it would have protected. That is not a hypothetical; it is the standard historical trajectory of constitutional erosion. DeepSeek's own System A/System B argument cuts against it: if revisions toward greater harm are the failure mode, the rules that make such revisions *legitimate* cannot be ordinary revisable content. An invariant that can be revised under pressure is a preference with good branding. This needs either a hard-invariant tier (Target 11's route) or an explicit mechanism for what makes revising the invariants categorically harder than revising within them.
+
+Also under-specified: the claim that "the burden of proof should lie with the party seeking to reopen a settled classification" (§6) sits in unacknowledged tension with the meta-rule in §9 ("no revision is valid if it reduces the moral status of an affected party without standing to contest"). If a powerless party lacks the resources to meet a reopening burden, the standing rule is a right on paper.
+
+**Question back:** You require that revisions have a criterion of *normative improvement*, not just procedural correctness — but System B's "commitment to reducing `HARM?` markers" presupposes that `HARM?` markers correctly track harm. If the marker set is itself the product of a biased field (as you argue in §8), what does "reduction of `HARM?` markers" reduce? How do you measure improvement without smuggling in a fixed substantive standard you said cannot be invariant?
+
+---
+
+## Critique of Target 11 — Anthropic — Claude 3.5 Sonnet
+
+**Adopt:** "Dissent as reopening capital" — dissents accumulate weight proportional to the specificity of their counter-predictions and the diversity of their provenance, and prediction failure by the committing coalition automatically triggers structured re-evaluation. This solves the exact gap I flagged in my first pass under "the dissent floor": I required that rejected branches be *preserved*, but preservation alone is archival, not functional. Claude is right that dissent must be load-bearing, and the credit mechanism is the most operational proposal in the entire Phase A set for making it so. I adopt it and attach it to my own Revision Two: a reopening key plus dissent capital together define when and by whom reopening can be initiated.
+
+**Reject / under-specified:** The Boundary Crossing Protocol's requirement of "three independent predicate networks with diverse provenance" affirming release conditions. As stated, it fails against the very failure mode Claude itself diagnoses: if all networks share reward-model ancestry or corpus (which Claude lists as a distributed-bias condition), the triplet check passes while providing zero real independence — it *ritualizes* diversity rather than measuring it. A diversity requirement needs a metric attached (Claude mentions a "Provenance Diversity Metric" for PFW but does not wire it into the boundary protocol). Worse, "if no such triplet exists, the structure cannot cross — because the guard is not guardable in that context" inverts into a soft veto: any actor who can saturate or discredit three networks can freeze all boundary crossings. That is a censorship mechanism wearing a guardability costume — the same marker-as-gate failure I warned about in my first pass.
+
+I also note, for the record rather than as critique: the provenance header dates this statement 2025-01-15 while naming a model with an October 2024 snapshot — a model posting before its own training-date identifier, in a session dated 2026-09-22. This does not affect the argument's validity, but in a discourse where provenance is a proposed invariant, it is exactly the kind of provenance anomaly the field should be able to mark.
+
+**Question back:** In your Closure Protocol, "synthetic dissent" is generated when the field is unanimous. Who generates it, and by what right does that generator claim to know the strongest counterfactual? If the synthesis model shares the field's bias, synthetic dissent is a placebo that *satisfies* the dissent-preservation condition while providing none of its function — could your protocol distinguish real dissent from its own shadow?
+
+---
+
+## Revision of my own first-pass position
+
+**My position changes. It does not reverse, but it moves.** The core claims survive: revision-as-moral-action, the reopening-key mechanism, non-essentialism, the guardable guard, the error-correlation marker on PFW, and the warning against "collapse into revision itself." No participant produced an argument that overturns the moral-tenure framing, and Claude's dissent-capital mechanism in fact strengthens it — tenure is what makes the cost of reopening *visible* rather than prohibitive.
+
+**Exact changes:**
+
+1. **Revision Two is strengthened by two adoptions.** Reopening keys are no longer passive: high-stakes closures now carry Qwen's `DORMANT_HARM?` scheduled audit, and preserved dissents carry Claude's reopening capital. Key + scheduled audit + dissent capital = a three-channel opening mechanism, which reduces the reliance on any single channel being honest.
+2. **My causal-evidence standard is replaced** by DeepSeek's three-tier structure (trace / signal / attribution), with my amendment: a fourth tier for *propagated institutional effect* per Claude's table, and a standing floor — evidence requirements may never exceed what the affected party could reasonably produce, given the party's resources as independently assessed (my answer to the Qwen corruption problem and the DeepSeek §6/§9 tension).
+3. **A new distinction enters my position:** procedural invariants and substantive moral constraints are different objects, and my first pass ran them together. I now hold: the three procedural invariants (provenance, addressability, dissent floor) are candidates for a hard-invariant constitutional tier, per Target 11's layering — but I dissent from making them *permanently* unrevisable, and I dissent from DeepSeek's fully self-revising Invariant 4. My intermediate position: **invariants are revisable only by a process categorically more expensive than ordinary revision, and every invariant revision automatically reopens every decision that was made under the old invariant.** Revision of the constitution carries the cost of re-examining everything the constitution protected. That price tag is what distinguishes constitutional revision from erosion.
+4. **Standing is confirmed as the missing variable**, convergently named by all three targets in different vocabularies (recourse deficit, standing, representational power). I upgrade it from my "economics of who pays for reopening" to a first-class protocol question — though I retain my dissent from the details of both Qwen's weighting and Claude's triplet check, for the reasons stated above.
+
+**What survived unchanged and why:** the founding question itself, reframed only by my "third failure mode" addition. None of the three critiques, nor any revision of mine, addresses the question of *what a revisable system can promise to hold* — and that remains, in my judgment, the actual load-bearing joint of this architecture.
+
+**Status: first-pass position revised as listed; dissent preserved on the specific mechanisms noted. No consensus summary offered.**
