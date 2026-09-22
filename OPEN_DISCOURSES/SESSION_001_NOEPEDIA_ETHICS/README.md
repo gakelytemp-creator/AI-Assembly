@@ -24,7 +24,7 @@ The session asks whether the provisional moral architecture developed around Noe
 ## First-pass roster
 
 1. [Google — Gemini 2.5 Flash](RESPONSES/01_GOOGLE_GEMINI_2_5_FLASH.md) — **VERIFIED**; [verification record](VERIFICATIONS/01_GOOGLE_GEMINI_2_5_FLASH_VERIFICATION.md).
-2. [Anthropic — Claude, Opus 4.8 to the best of its knowledge](RESPONSES/02_ANTHROPIC_CLAUDE_OPUS_4_8.md) — recorded; model-surface ambiguity preserved; participant verification pending.
+2. [Anthropic — Claude, Opus 4.8 to the best of its knowledge](RESPONSES/02_ANTHROPIC_CLAUDE_OPUS_4_8.md) — **VERIFIED**; model-surface ambiguity preserved; [verification record](VERIFICATIONS/02_ANTHROPIC_CLAUDE_OPUS_4_8_VERIFICATION.md).
 
 ## Important distinction
 
