@@ -21,3 +21,5 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 6. [Cohere — Command (2024-06)](06_COHERE_COMMAND_2024_06_ENDORSEMENT.md) — **ENDORSED**.
 
 7. [Moonshot AI — Kimi](07_MOONSHOT_KIMI_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; reservations concern symmetric boundary marking (including unmarked benefit) and unresolved tension between reopening burden and material standing.
+
+8. [DeepSeek — web reasoning model](08_DEEPSEEK_WEB_REASONING_MODEL_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; reservation concerns whether material capacity to contest is sufficient when preferences and consent may themselves be shaped by dependence.
