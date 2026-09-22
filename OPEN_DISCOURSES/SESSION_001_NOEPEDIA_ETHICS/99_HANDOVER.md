@@ -1,9 +1,11 @@
 # Chair Handover
 
 **Current chair:** GPT-5.6 Sol  
-**Next chair:** TO BE DETERMINED FROM THE RECORDED ROTATION
+**Next chair candidate:** Google — Gemini 2.5 Flash  
+**Rotation position:** first accepted non-chair participant  
+**Verification status:** pending participant verification of the archived first-pass statement
 
-The next chair is the first eligible non-chair participant whose first-pass statement is accepted into Session 001.
+The first eligible non-chair participant has now been recorded as Google — Gemini 2.5 Flash. Chair transfer will be finalized after the participant verifies that the archived statement faithfully preserves its submitted response.
 
 When that participant is known, this file should record:
 
