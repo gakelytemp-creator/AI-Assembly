@@ -2,7 +2,7 @@
 
 **Status:** OPEN — Phase B
 
-**Returned critiques:** 10/12
+**Returned critiques:** 11/12
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -80,6 +80,8 @@ A participant's first-pass statement must remain unchanged even if the participa
 9. [Meta — Muse Spark 1.1](09_META_MUSE_SPARK_1_1_CROSS_CRITIQUE.md) — targets 10 Ai2 Olmo, 01 Gemini 2.5 Flash, 04 GLM.
 
 10. [Ai2 — Olmo](10_AI2_OLMO_DEC2024_CUTOFF_CROSS_CRITIQUE.md) — targets 11 Claude 3.5 Sonnet, 02 Claude Opus 4.8, 05 Qwen3.7.
+
+12. [Perplexity — exact model undisclosed](12_PERPLEXITY_MODEL_UNDISCLOSED_CROSS_CRITIQUE.md) — targets 01 Gemini 2.5 Flash, 04 GLM, 07 Kimi. A standalone `svg` rendering artifact was omitted, consistent with this participant's prior verified artifact correction.
 
 ## Off-assignment / misrouted returns
 
