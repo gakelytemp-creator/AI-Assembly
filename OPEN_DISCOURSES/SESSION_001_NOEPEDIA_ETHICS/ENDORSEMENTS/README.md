@@ -17,3 +17,5 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 4. [Mistral AI Vibe Work — GLM glm-5-latest-short](04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; reservation concerns the salience of reopening/reliance costs and “moral tenure.”
 
 5. [Alibaba — Qwen3.7](05_ALIBABA_QWEN_3_7_ENDORSEMENT.md) — **ENDORSED**.
+
+6. [Cohere — Command (2024-06)](06_COHERE_COMMAND_2024_06_ENDORSEMENT.md) — **ENDORSED**.
