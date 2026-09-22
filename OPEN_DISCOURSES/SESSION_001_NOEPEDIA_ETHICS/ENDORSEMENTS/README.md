@@ -13,3 +13,5 @@ The substantive Chair Summary is held stable during the endorsement round. Reser
 2. [Anthropic — Claude Opus 4.8](02_ANTHROPIC_CLAUDE_OPUS_4_8_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; includes two provenance corrections and an independence-metadata note.
 
 3. [xAI — Grok 4.5](03_XAI_GROK_4_5_ENDORSEMENT.md) — **ENDORSED**.
+
+4. [Mistral AI Vibe Work — GLM glm-5-latest-short](04_MISTRAL_VIBE_GLM_5_LATEST_SHORT_ENDORSEMENT.md) — **ENDORSED WITH RESERVATIONS**; reservation concerns the salience of reopening/reliance costs and “moral tenure.”
