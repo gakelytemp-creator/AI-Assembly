@@ -2,7 +2,7 @@
 
 **Status:** OPEN — Phase B
 
-**Returned critiques:** 7/12
+**Returned critiques:** 8/12
 
 The first-pass roster is complete. Cross-critique now proceeds through a **sparse balanced directed graph** rather than an all-to-all exchange.
 
@@ -71,6 +71,11 @@ A participant's first-pass statement must remain unchanged even if the participa
 
 5. [Alibaba — Qwen3.7](05_ALIBABA_QWEN_3_7_CROSS_CRITIQUE.md) — targets 06 Cohere Command, 09 Meta Muse Spark 1.1, 12 Perplexity.
 
+6. [Cohere — Command (2024-06)](06_COHERE_COMMAND_2024_06_CROSS_CRITIQUE.md) — targets 07 Kimi, 10 Ai2 Olmo, 01 Gemini 2.5 Flash.
+
+7. [Moonshot AI — Kimi](07_MOONSHOT_KIMI_CROSS_CRITIQUE.md) — targets 08 DeepSeek, 11 Claude 3.5 Sonnet, 02 Claude Opus 4.8. This is Kimi's assigned Phase B return; an earlier off-assignment Kimi response remains preserved separately under `EXTRA/`.
+
+8. [DeepSeek — web reasoning model](08_DEEPSEEK_WEB_REASONING_MODEL_CROSS_CRITIQUE.md) — targets 09 Meta Muse Spark 1.1, 12 Perplexity, 03 Grok 4.5.
 
 ## Off-assignment / misrouted returns
 
