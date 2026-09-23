@@ -1,6 +1,6 @@
 # Session 002 — First-Pass Responses
 
-**Status:** FIRST PASS COMPLETE — 10/10 responses recorded  
+**Status:** 10 archive entries present — 7 analyzable, 3 require response-text restoration  
 **Target:** 10 independently produced non-chair AI responses
 
 Each first-pass response must be archived as a separate record.
@@ -17,15 +17,15 @@ No cross-critique should begin before the first-pass target is complete or the C
 
 2. [xAI — Grok 4.5](02_XAI_GROK_4_5.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
 
-3. [DeepSeek — latest reasoning model, web interface](03_DEEPSEEK_WEB_REASONING_MODEL.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
+3. [DeepSeek — latest reasoning model, web interface](03_DEEPSEEK_WEB_REASONING_MODEL.md) — **archive integrity issue:** current file contains a failed `files/read` retrieval object rather than the substantive first-pass response.
 
-4. [Moonshot AI — Kimi](04_MOONSHOT_KIMI.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
+4. [Moonshot AI — Kimi](04_MOONSHOT_KIMI.md) — **archive integrity issue:** current file contains a failed `files/read` retrieval object rather than the substantive first-pass response.
 
 5. [Meta — Muse Spark 1.1](05_META_MUSE_SPARK_1_1.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface artifacts are preserved in the first-pass record pending any later verification/correction cycle.
 
 6. [Perplexity — underlying model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface artifacts are preserved pending any later verification/correction cycle.
 
-7. [Cohere — Command, exact version not exposed](07_COHERE_COMMAND.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface/planning artifacts are preserved pending any later verification/correction cycle.
+7. [Cohere — Command, exact version not exposed](07_COHERE_COMMAND.md) — **archive integrity issue:** current file contains a failed `files/read` retrieval object rather than the substantive first-pass response.
 
 8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
 
