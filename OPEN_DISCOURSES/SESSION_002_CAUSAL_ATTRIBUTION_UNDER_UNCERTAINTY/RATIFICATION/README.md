@@ -1,6 +1,6 @@
 # Session 002 — Ratification / Objection Round
 
-**Status:** OPEN — 5/10 participant ratification records returned
+**Status:** OPEN — 6/10 participant ratification records returned
 
 Standing rule:
 
@@ -15,3 +15,5 @@ Standing rule:
 4. [Moonshot AI — Kimi](04_MOONSHOT_KIMI_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
 
 5. [Meta — Muse Spark 1.1](05_META_MUSE_SPARK_1_1_RATIFICATION.md) — **RATIFY** (participant wording: **ENDORSED**).
+
+6. [Perplexity — model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
