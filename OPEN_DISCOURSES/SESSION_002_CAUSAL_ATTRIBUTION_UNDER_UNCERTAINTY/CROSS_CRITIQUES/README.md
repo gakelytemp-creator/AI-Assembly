@@ -1,6 +1,6 @@
 # Session 002 — Cross-Critiques
 
-**Status:** OPEN — 6/10 assigned cross-critiques returned  
+**Status:** OPEN — 7/10 assigned cross-critiques returned  
 **Participants:** 10  
 **Graph:** sparse balanced directed graph, 3 outgoing + 3 incoming critiques per participant  
 **Total assigned edges:** 30
@@ -66,3 +66,5 @@ Returned critiques should be stored as one file per critic in this directory, pr
 5. [Meta — Muse Spark 1.1](05_META_MUSE_SPARK_1_1_CROSS_CRITIQUE.md) — targets 06 Perplexity, 08 Qwen3.7, 09 Mistral/GLM.
 
 6. [Perplexity — model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED_CROSS_CRITIQUE.md) — targets 07 Cohere Command, 09 Mistral/GLM, 10 Ai2 OLMo-7B.
+
+7. [Cohere — Command](07_COHERE_COMMAND_CROSS_CRITIQUE.md) — targets 08 Qwen3.7, 10 Ai2 OLMo-7B, 01 Claude Opus 4.8.
