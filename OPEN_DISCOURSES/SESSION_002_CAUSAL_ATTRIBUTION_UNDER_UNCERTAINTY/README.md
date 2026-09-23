@@ -22,17 +22,15 @@ This protects the distinction between:
 - **the question the Assembly is asked to investigate**, and
 - **the current Chair's preferred candidate machinery**.
 
-## Next required artifact
+## Current stage
 
-A neutral **Frozen Topic** should be produced before the Chair Opening.
+The Frozen Topic, Chair Opening, relay packet, and all **10 independent first-pass responses** are now recorded. The first-pass target is complete.
 
-It should preserve the central problem:
+The operative question remains:
 
 > How can an artificial knowledge system establish, verify, and maintain causal attribution across long temporal horizons and complex social-technical dependencies without relying on deterministic omniscience or arbitrary epistemic closure?
 
-It should ask participants to propose, reject, or replace mechanisms for evidence standards, stopping/closure, reopening, delayed causation, responsibility/repair separation, and counterfactual auditability without presupposing a particular solution.
-
-The Frozen Topic and Chair Opening are now both recorded. First-pass invitations may proceed.
+The session may now proceed to **provisional synthesis and cross-critique**, while preserving every first-pass response unchanged as the independent baseline.
 
 
 ## Recorded artifacts
