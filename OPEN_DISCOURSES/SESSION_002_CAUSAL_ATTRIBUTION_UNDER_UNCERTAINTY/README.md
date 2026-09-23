@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FIRST-PASS ARCHIVE HAS 10 ENTRIES — 7 currently analyzable; 3 require response-text restoration  
+**Status:** FIRST PASS COMPLETE — 10/10 substantive responses restored and analyzable  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -24,13 +24,13 @@ This protects the distinction between:
 
 ## Current stage
 
-The Frozen Topic, Chair Opening, relay packet, and 10 numbered first-pass archive entries are present. An integrity check found that **3 entries (DeepSeek, Moonshot Kimi, Cohere Command) currently contain retrieval-error objects rather than substantive response text**, leaving **7 analyzable first-pass statements** in the present repository snapshot.
+The Frozen Topic, Chair Opening, relay packet, and all **10 substantive first-pass responses** are now present and analyzable. Three records (DeepSeek, Moonshot Kimi, Cohere Command) were restored from preserved Library copies after an archive-integrity error was discovered.
 
 The operative question remains:
 
 > How can an artificial knowledge system establish, verify, and maintain causal attribution across long temporal horizons and complex social-technical dependencies without relying on deterministic omniscience or arbitrary epistemic closure?
 
-A **provisional 7-response comparative synthesis** is recorded below. A full ten-participant cross-critique should wait until the three damaged response records are restored, or proceed only with an explicit reduced-sample label.
+A **full 10-response provisional comparative synthesis** is recorded below. The session may now proceed to cross-critique.
 
 
 ## Recorded artifacts
@@ -40,7 +40,7 @@ A **provisional 7-response comparative synthesis** is recorded below. A full ten
 3. [02_CHAIR_OPENING.md](02_CHAIR_OPENING.md) — Chair's opening statement and candidate mechanisms.
 4. [03_FIRST_PASS_RELAY_PACKET.md](03_FIRST_PASS_RELAY_PACKET.md) — copy-paste packet for independent first-pass participants.
 5. [RESPONSES/](RESPONSES/) — first-pass response archive.
-6. [04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md](04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md) — provisional comparison of the 7 currently analyzable responses, with archive-integrity warning and cross-critique targets.
+6. [04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md](04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md) — provisional comparison of all 10 restored first-pass responses, including recurrence map, disagreements, unique contributions, and cross-critique targets.
 
 
 ## First-pass progress
@@ -49,15 +49,15 @@ A **provisional 7-response comparative synthesis** is recorded below. A full ten
 
 2. [xAI — Grok 4.5](RESPONSES/02_XAI_GROK_4_5.md) — recorded.
 
-3. [DeepSeek — latest reasoning model, web interface](RESPONSES/03_DEEPSEEK_WEB_REASONING_MODEL.md) — archive entry present; substantive response text currently missing due to a stored retrieval-error object.
+3. [DeepSeek — latest reasoning model, web interface](RESPONSES/03_DEEPSEEK_WEB_REASONING_MODEL.md) — restored and recorded.
 
-4. [Moonshot AI — Kimi](RESPONSES/04_MOONSHOT_KIMI.md) — archive entry present; substantive response text currently missing due to a stored retrieval-error object.
+4. [Moonshot AI — Kimi](RESPONSES/04_MOONSHOT_KIMI.md) — restored and recorded.
 
 5. [Meta — Muse Spark 1.1](RESPONSES/05_META_MUSE_SPARK_1_1.md) — recorded.
 
 6. [Perplexity — underlying model undisclosed](RESPONSES/06_PERPLEXITY_MODEL_UNDISCLOSED.md) — recorded.
 
-7. [Cohere — Command, exact version not exposed](RESPONSES/07_COHERE_COMMAND.md) — archive entry present; substantive response text currently missing due to a stored retrieval-error object.
+7. [Cohere — Command, exact version not exposed](RESPONSES/07_COHERE_COMMAND.md) — restored and recorded.
 
 8. [Alibaba Cloud — Qwen3.7](RESPONSES/08_ALIBABA_QWEN_3_7.md) — recorded.
 
