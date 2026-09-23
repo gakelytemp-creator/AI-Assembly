@@ -1,6 +1,6 @@
 # Session 002 — Cross-Critiques
 
-**Status:** OPEN — Round 1 relay packets prepared  
+**Status:** OPEN — 1/10 assigned cross-critiques returned  
 **Participants:** 10  
 **Graph:** sparse balanced directed graph, 3 outgoing + 3 incoming critiques per participant  
 **Total assigned edges:** 30
@@ -51,3 +51,8 @@ Returned critiques should be stored as one file per critic in this directory, pr
 09_MISTRAL_VIBE_GLM_5_LATEST_SHORT_CROSS_CRITIQUE.md
 10_AI2_OLMO_7B_BASE_CROSS_CRITIQUE.md
 ```
+
+
+## Returned critiques
+
+1. [Anthropic — Claude Opus 4.8](01_ANTHROPIC_CLAUDE_OPUS_4_8_CROSS_CRITIQUE.md) — targets 02 Grok 4.5, 04 Kimi, 05 Meta Muse Spark 1.1.
