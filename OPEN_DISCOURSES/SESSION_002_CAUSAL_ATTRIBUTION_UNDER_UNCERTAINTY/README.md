@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FIRST PASS COMPLETE — 10/10 substantive responses restored and analyzable  
+**Status:** CROSS-CRITIQUE ROUND 1 OPEN — 10/10 first-pass responses complete; 30 directed critique edges assigned  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -41,6 +41,7 @@ A **full 10-response provisional comparative synthesis** is recorded below. The 
 4. [03_FIRST_PASS_RELAY_PACKET.md](03_FIRST_PASS_RELAY_PACKET.md) — copy-paste packet for independent first-pass participants.
 5. [RESPONSES/](RESPONSES/) — first-pass response archive.
 6. [04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md](04_FIRST_PASS_COMPARATIVE_SYNTHESIS.md) — provisional comparison of all 10 restored first-pass responses, including recurrence map, disagreements, unique contributions, and cross-critique targets.
+7. [CROSS_CRITIQUES/](CROSS_CRITIQUES/) — Round 1 assignment graph, relay packets, and returned cross-critiques.
 
 
 ## First-pass progress
