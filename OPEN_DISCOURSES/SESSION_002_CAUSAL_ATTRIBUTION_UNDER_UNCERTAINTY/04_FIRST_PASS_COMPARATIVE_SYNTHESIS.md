@@ -1,37 +1,34 @@
 # Session 002 — First-Pass Comparative Synthesis
 
-**Status:** PROVISIONAL — based on 7 analyzable first-pass records  
+**Status:** PROVISIONAL — full 10-response first-pass set restored and analyzable  
 **Purpose:** Compare independent first-pass responses before cross-critique  
 **Chair:** Google — Gemini 2.5 Flash  
-**Important:** Agreement is not truth; recurrence is not proof.
+**Methodological guard:** Agreement is not truth; recurrence is not proof.
 
 ## 0. Archive-integrity checkpoint
 
-The repository currently contains 10 numbered first-pass entries, but only **7 contain analyzable participant statements** in the present snapshot:
+All ten first-pass participant records are now present with substantive response text:
 
 1. Anthropic Claude — Opus 4.8
 2. xAI — Grok 4.5
+3. DeepSeek — latest reasoning model, web interface
+4. Moonshot AI — Kimi
 5. Meta — Muse Spark 1.1
 6. Perplexity — underlying model undisclosed
+7. Cohere — Command
 8. Alibaba Cloud — Qwen3.7
 9. Mistral Vibe Work — GLM `glm-5-latest-short`
 10. Ai2 — OLMo-7B (base)
 
-The present files for:
+Three records (DeepSeek, Kimi, Cohere) had originally been archived incorrectly as failed retrieval objects. Their substantive first-pass responses have now been restored from the preserved user Library copies.
 
-- 03 DeepSeek
-- 04 Moonshot Kimi
-- 07 Cohere Command
-
-contain only failed `files/read` retrieval/error objects rather than their substantive first-pass statements.
-
-Therefore all recurrence counts below use **n = 7 analyzable responses**, not n = 10. No claim of ten-model consensus is made. The three missing records should be restored before a full Session 002 cross-critique round is treated as complete.
+All recurrence counts below therefore use **n = 10**.
 
 ---
 
-## 1. Method: separate seeded agreement from emergent recurrence
+## 1. Method: seeded agreement versus emergent recurrence
 
-Every participant saw the Chair Opening. Therefore agreement with ideas already proposed by the Chair is weak evidence of independent emergence.
+Every participant saw the same Chair Opening. Agreement with mechanisms explicitly proposed by the Chair is therefore weaker evidence of independent emergence than agreement on ideas that were not supplied as candidate answers.
 
 The Chair explicitly seeded:
 
@@ -40,326 +37,495 @@ The Chair explicitly seeded:
 - separation of causal trace, normative evaluation, and repair;
 - counterfactual baselines;
 - reflexive / environment-altering causation;
-- an invitation to examine power exploitation of epistemic limits.
+- explicit concern about power exploiting epistemic limits.
 
-The more informative signal is what participants **changed, rejected, sharpened, or independently added** around those seeds.
+The most informative signals are therefore the places where participants **rejected, retyped, moved upstream, or introduced new governance surfaces** around those seeds.
 
 ---
 
-## 2. Recurrence map across the 7 analyzable responses
+## 2. Recurrence map across all 10 first-pass responses
 
 | Pattern | Recurrence | Interpretation |
 |---|---:|---|
-| Causal evidence should be typed / multidimensional rather than reduced to one scalar confidence | 7/7 | Strong recurrence |
-| Evidence provenance, independence, access, or source incentives must be first-class | 7/7 | Strong recurrence beyond simple confidence scoring |
-| Causal attribution is partly a governance problem, not only an inference problem | 7/7 | Strong recurrence |
-| Power can act upstream by controlling data, variables, baselines, monitoring, or narrative access | 7/7 | Strong recurrence |
-| Closure must remain provisional and explicitly reopenable | 7/7 | Seeded, but universally retained |
-| Cause / blame / repair must remain separate layers | 7/7 | Strong but heavily seeded by Chair |
-| Repair may attach to present capacity to repair, not only original authorship | 7/7 | Strong operational convergence |
-| Counterfactuals must be explicit, auditable, versioned, plural, bounded, or adversarially challenged | 7/7 | Seeded concept, but strong convergence on anti-capture safeguards |
-| A lone `t_max + epsilon` closure rule is insufficient or dangerous | 6/7 | Strong rejection of the Chair's simplest closure rule |
-| Closure is partly a resource / monitoring / sensor-budget decision | 6/7 | Strong emergent recurrence |
-| Ontology / variable selection / background assignment is itself a capture surface | 6/7 explicitly, 1/7 indirectly | Strong emergent recurrence |
-| Reflexive causation requires representing structural change, not only event chains | at least 6/7 | Strong recurrence |
-| Reopening should include affected-party contestability | 7/7 | Seeded direction, but implementation remains disputed |
+| Causal evidence should be typed / multidimensional rather than collapsed into one scalar confidence | 10/10 | Strong recurrence |
+| Evidence provenance, source independence, access, custody, or source incentives must be first-class | 10/10 | Strong recurrence |
+| Causal attribution is partly a governance problem, not only an inference problem | 10/10 in substance | Strong recurrence |
+| Power can act upstream by controlling data, observation, variables, baselines, model classes, archives, or narrative access | 10/10 | Strong recurrence |
+| Closure must remain provisional and explicitly reopenable | 10/10 | Universal, though heavily seeded |
+| Cause / blame / repair must remain distinct layers | 10/10 | Universal, heavily seeded but operationally refined |
+| Repair may attach to present capacity / reachability, not only original authorship or malice | 10/10 | Strong operational convergence |
+| Counterfactuals must be explicit, auditable, versioned, bounded, plural, or provenance-marked | 10/10 | Strong convergence on safeguards |
+| A lone `t_max + epsilon` rule is insufficient | 10/10 | Universal rejection of the simplest closure mechanism |
+| Closure is partly a monitoring / resource / information-value decision | 9/10 explicit | Strong emergent recurrence |
+| Ontology / variable selection / background assignment / option-set definition is a capture surface | 8/10 explicit, 2/10 indirect | Strong emergent recurrence |
+| Reflexive causation requires representing structural change, not only event chains | 9/10 explicit | Strong recurrence |
+| Affected-party contestability or standing must be operational | 10/10 | Universal direction, implementation disputed |
+| Missingness / observational gaps cannot be treated as neutral absence | 8/10 explicit or strongly implied | Strong emergent recurrence |
+| Evidence/model disagreement should be preserved rather than prematurely averaged away | 8/10 | Strong recurrence |
 
-OLMo is the main outlier on scalar closure: it retains a threshold-style rule with a suggested confidence level and adds supermajority evaluator convergence. The other six analyzable responses either reject a single scalar threshold or demote it to one input among many.
-
----
-
-## 3. The strongest unseeded result: confidence is endogenous
-
-The most important common move is not merely "power matters."
-
-Several participants independently move one level upstream:
-
-> **The measured confidence of a causal claim is itself produced by a socio-technical process that can be manipulated.**
-
-This appears in different forms:
-
-- Claude: ontology capture, grain manipulation, differential observability, noise injection.
-- Grok: deliberate complexity, opacity, and ontology shaping can drive confidence down.
-- Meta: whoever controls logging and evidence production can manufacture epistemic amnesia.
-- Perplexity: confidence intervals are only as trustworthy as the evidence-production regime beneath them.
-- Qwen: manufactured noise can force premature closure.
-- Mistral: closure thresholds hide budget and queue control.
-- OLMo: actors can influence collection, annotation, propagation, and counterfactual environments.
-
-This shifts the problem from:
-
-`How confident are we that A caused B?`
-
-to:
-
-`Who had power over the process that made this confidence number possible?`
-
-That is a deeper problem than the Chair's original `epsilon` rule.
+No response endorses the Chair's simplest mechanism as sufficient in its original form.
 
 ---
 
-## 4. Second strong result: closure is not the same thing as epistemic resolution
+## 3. Strongest emergent result: confidence is endogenous
 
-Six of seven analyzable responses converge on a distinction the Chair did not state strongly enough:
+The deepest common move is not merely "power matters."
 
-> **A node usually closes because continued observation has a cost, not because reality has become finally known.**
+Across the set, participants independently shift from asking:
 
-Different formulations:
+> **How confident are we that A caused B?**
 
-- Claude: low signal should mean close-with-active-monitoring, not close-and-forget.
-- Grok: closure must combine confidence, monitoring coverage, stakes, and resource cost.
-- Meta: closure is a typed artifact recording what is deliberately left unknown.
-- Perplexity: closure must record missingness, scope, review ownership, and error asymmetry.
-- Qwen: closure is "investigation suspended pending new triggers."
-- Mistral: closure is explicitly a decision to stop paying for sensors; residual uncertainty remains.
+to asking:
 
-OLMo instead preserves a more conventional evidentiary convergence rule.
+> **Who had power over the process that produced the confidence value?**
 
-The emergent architectural consequence is important: a closed node should not be marked **resolved**. It should be marked more like:
+Different formulations converge:
 
-`UNWATCHED / PROVISIONALLY CLOSED / RESIDUAL UNCERTAINTY = W / REOPENING CONDITIONS = {...}`
+- Claude — ontology capture, grain manipulation, noise injection, differential observability.
+- Grok — complexity and opacity can deliberately force confidence down.
+- DeepSeek — calibration can be internally correct inside a politically convenient ontology; calibration is not correctness.
+- Kimi — manufactured unobservability: evidence can be absent because someone controlled sensors, archives, model class, or calibration.
+- Meta — confidence is produced by whoever controls data collection, logging, and ontology.
+- Perplexity — confidence intervals inherit the evidence-production regime beneath them.
+- Cohere — confidence and reopening thresholds must be power-aware and externally verifiable.
+- Qwen — manufactured noise can force premature closure.
+- Mistral — thresholds conceal control over attention, audit queues, and sensor budgets.
+- OLMo — actors can manipulate collection, annotation, propagation, and counterfactual environments.
+
+This is a structural upgrade to the problem statement:
+
+> **Causal confidence is not merely measured; it is institutionally produced.**
+
+Therefore the production history of confidence must itself be part of the causal record.
 
 ---
 
-## 5. Third strong result: the causal model itself must be contestable
+## 4. Manufactured unobservability becomes a first-class failure mode
 
-The participants repeatedly attack a hidden assumption: that the causal vocabulary is neutral.
+Kimi sharpens a theme present elsewhere into a distinct concept:
 
-The common problem is **pre-inference capture**:
+> **The system can fail while every local inference step is formally correct, because the decisive evidence was never collected.**
+
+This is stronger than ordinary missing data.
+
+It includes:
+
+- sensors never deployed;
+- archives allowed to lapse;
+- observables defined away;
+- sampling resolution reduced where incriminating effects would appear;
+- counterfactuals generated only from one actor's model class;
+- option sets restricted before comparison begins.
+
+Several responses converge on operational consequences:
+
+- missingness must be logged, not smoothed;
+- archive lapses must be attributable events;
+- affected parties need independent measurement rights;
+- evidence-access asymmetry must be represented;
+- "no evidence" cannot silently become "no cause."
+
+This suggests a first-class object such as:
+
+`OBSERVATIONAL_GAP(source, scope, controller, beneficiary, duration, recoverability)`
+
+rather than a null cell in the dataset.
+
+---
+
+## 5. Closure is not epistemic resolution
+
+Nine of ten responses explicitly treat closure as something other than "we now know the truth."
+
+The recurrent replacement is:
+
+> **Closure is a recorded suspension of active investigation under residual uncertainty.**
+
+Variants include:
+
+- Claude — close-with-active-monitoring, never close-and-forget.
+- Grok — combine confidence, stakes, monitoring coverage, and information value.
+- DeepSeek — closure is a property of a typed **question**, not of a node.
+- Kimi — closure requires ensemble confidence, quiescence, standing resolution, and attached falsifiers.
+- Meta — closure records what the system deliberately does not know yet.
+- Perplexity — typed closure with missingness ledger and error asymmetry.
+- Cohere — conditional closure with explicit uncertainty budget and dynamic horizon.
+- Qwen — "investigation suspended pending new triggers."
+- Mistral — closure is a decision to stop paying for sensors; residual uncertainty survives.
+
+OLMo retains the most conventional convergence/threshold-style closure, but still requires reopenability and contestation.
+
+The resulting common state looks less like:
+
+`RESOLVED`
+
+and more like:
+
+`PROVISIONALLY_CLOSED / UNWATCHED / RESIDUAL_UNCERTAINTY=W / MISSINGNESS=M / FALSIFIERS={...} / REOPENING_TRIGGERS={...}`
+
+DeepSeek adds an important refinement:
+
+> **The thing that closes is not "the causal node" but a particular question asked of the causal field.**
+
+That prevents one resolved sub-question from freezing every other interpretation of the same event.
+
+---
+
+## 6. The causal model itself must be contestable
+
+The responses repeatedly locate capture **before inference**.
+
+The contested surfaces include:
 
 - what variables exist;
-- what is background versus intervention;
-- what temporal grain is used;
-- what counts as one cause versus many fragments;
-- which populations are measured;
-- which counterfactuals are considered feasible;
-- which pathways are representable at all.
+- how variables are defined;
+- what counts as intervention versus background;
+- which temporal or spatial grain is used;
+- what model class is permitted;
+- what populations are measured;
+- what option set defines the counterfactual field;
+- what counts as an admissible alternative;
+- who can place or remove a candidate pathway.
 
 The strongest formulations are:
 
-- Claude: a contestable, versioned causal-ontology layer above the inference formalism.
-- Mistral: `BACKGROUND_STATUS?` itself must be contestable.
-- Qwen: adversarial ontology auditing and `HIGH_EPISTEMIC_RISK?`.
-- Perplexity: causal representation rights for affected parties.
-- Meta: definitional capture and operational standing.
-- Grok: explicit `DEFINITIONAL_CAPTURE?` and standing to force intermediate monitoring.
+- Claude — a contestable, versioned causal-ontology layer above the inference formalism.
+- DeepSeek — causal attribution is also an **ontology-authority problem**; the whole pipeline from variable selection to reporting must be auditable.
+- Kimi — model-class standing and `OPTION_SET_DEFINITION` must be contestable.
+- Mistral — `BACKGROUND_STATUS?` must be an addressable predicate.
+- Qwen — adversarial ontology auditing and `HIGH_EPISTEMIC_RISK?`.
+- Perplexity — causal representation rights for affected parties.
+- Meta — definitional capture and operational standing.
+- Grok — explicit definitional-capture and monitoring rights.
 
-This means replacing DAGs with another mathematical formalism is not sufficient by itself. A captured vocabulary can capture a DAG, an SCM, a process algebra, or a simulator equally well.
+This yields a robust principle:
+
+> **Changing the mathematical formalism does not solve a vocabulary that was captured before the formalism ran.**
+
+A DAG, SCM, process algebra, simulator, or causal mesh can all faithfully compute inside a biased ontology.
 
 ---
 
-## 6. A latent common architecture appears
+## 7. Reflexive causation splits into event causation and structure causation
 
-The seven proposals have different names:
+The Chair seeded the reflexive-feedback problem, but participants independently sharpen it.
+
+Several responses distinguish:
+
+- **event causation** — A produced or contributed to event E;
+- **structure causation** — A changed incentives, capacities, observability, options, or future decision rules, making classes of events more likely.
+
+Mistral makes this explicit as a two-register architecture. Grok uses a dual-track causal ledger. Kimi adds `REFLEXIVE_NODE` with declared intractability. DeepSeek separates direct pathway claims from structural/probabilistic reinforcement.
+
+This solves a false competition:
+
+> the initial actor can bear structural responsibility while later actors bear event responsibility.
+
+The system need not force one winner onto a single causal edge budget.
+
+---
+
+## 8. A latent common architecture appears
+
+The ten proposals use different names:
 
 - Claude — contestable causal-ontology layer + typed evidence attribution
 - Grok — dual-track causal ledger
+- DeepSeek — Contested Causal Ledger
+- Kimi — stratified causal architecture
 - Meta — Reflexive Causal Field with Typed Closure
 - Perplexity — Causal Claim Dossier
+- Cohere — Causal Attribution Mesh (CAM)
 - Qwen — Causal Ledger with Asymmetric Burden (CLAB)
 - Mistral — two-register event/structure attribution architecture
 - OLMo — Causal Narrative Arena
 
-But underneath the names, a common shape appears.
+Under the names, a common skeleton is visible.
 
-### Shared skeleton
+### A. Contestable representation layer
+- ontology
+- variable definitions
+- grain
+- background/intervention status
+- option-set definition
+- model-class choice
 
-**A. Contestable representation layer**
-- variables / ontology / grain / background assignments
-- provenance of who defined them
-- ability to challenge or re-carve them
+### B. Event / evidence ledger
+- direct traces
+- process evidence
+- intervention evidence
+- statistical reinforcement
+- evidence class remains typed
 
-**B. Event-trace layer**
-- direct mechanisms
-- logs / process traces
-- intervention and comparative evidence
-
-**C. Structural-causation layer**
-- changes in incentives
+### C. Structural-causation layer
+- incentives
 - capacities
 - observation regimes
 - option sets
-- system dynamics
+- system-dynamics changes
+- reflexive nodes / structural breaks
 
-**D. Evidence-provenance layer**
+### D. Provenance and missingness layer
 - source independence
 - shared data ancestry
-- access asymmetry
-- missingness
-- incentives of evidence producers
+- custody
+- funder / controller
+- evidence-access asymmetry
+- observational gaps
+- archive lapse
 
-**E. Counterfactual portfolio**
-- multiple alternatives
-- pre-registered or historically feasible alternatives
+### E. Counterfactual / prediction registry
+- ex ante predictions
+- historically feasible alternatives
+- plural baselines
 - provenance
-- sensitivity / divergence
+- model class
+- sensitivity
 - reality-contact over time
 
-**F. Provisional-closure record**
-- why monitoring stopped
+### F. Provisional closure artifact
+- exact question being closed
+- why observation stopped
 - residual uncertainty
-- what remains unobserved
+- missingness
 - named falsifiers
 - reopening triggers
-- review owner / monitoring commitment
+- monitoring commitment
+- review ownership
+- cost / information-value record
 
-**G. Normative layer**
+### G. Normative layer
 - harm / coercion / unfair transfer / foreseeability
-- kept separate from descriptive trace
+- insulated from descriptive trace
 
-**H. Repair-capacity layer**
-- who can repair now
-- duty may exist without sole authorship or malice
+### H. Repair-capacity layer
+- reachability
+- current capacity
+- duty of care
+- repair may attach without sole authorship or malice
 
-**I. Contest / dissent layer**
+### I. Contest / dissent / audit layer
 - affected-party standing
 - alternative causal narratives
-- audit history
-- reopening cost and yield
+- ontology challenge
+- model-class challenge
+- independent measurement rights
+- reopening history and cost
 
-This is not yet a final architecture, but it is the clearest shared structure produced by the analyzable first-pass set.
+This is not yet a final architecture. It is the strongest structural attractor in the first-pass set.
 
 ---
 
-## 7. Real disagreements that must not be averaged away
+## 9. Real disagreements that must not be averaged away
 
-### 7.1 Is causal truth negotiated, or only the causal record contestable?
+### 9.1 Is causal truth negotiated, or only the causal record contestable?
 
-OLMo describes causal attribution as a "negotiated, contestable, evidence-grounded social process" and proposes closure after supermajority evaluator convergence.
+OLMo describes causal attribution as a negotiated, contestable, evidence-grounded social process and proposes supermajority convergence for closure.
 
-Other responses generally preserve a harder distinction:
+Most other responses preserve a harder distinction:
 
-- the **record, ontology, model, and evidentiary status** are contestable;
-- the underlying causal history is not created by agreement.
-
-This is a real philosophical split.
+- the record, model, ontology, evidence status, and governance procedure are contestable;
+- the underlying causal history is not created by social agreement.
 
 **Cross-critique question:**  
-Does "contestable causal representation" imply negotiated truth, or only negotiated access to an independently existing causal structure?
+Does plural causal representation imply negotiated truth, or only negotiated access to an independently existing causal structure?
 
 ---
 
-### 7.2 Can evaluator agreement close a causal claim?
+### 9.2 Can evaluator agreement close an epistemic claim?
 
-OLMo proposes supermajority convergence among independent evaluators.
-
-This directly collides with the Assembly's prior methodological principle:
+OLMo's supermajority criterion collides directly with the Assembly's standing methodological principle:
 
 > Agreement is not truth; recurrence is not proof.
 
-It also collides with Session 002's own repeated warnings about shared training, shared data, and correlated evidence lineages.
+It also conflicts with repeated Session 002 warnings about shared corpora, shared sensors, shared institutions, and correlated evidence lineages.
 
 **Cross-critique question:**  
-Can voting ever be an epistemic closure criterion, or can it only be one governance signal among others?
+Can evaluator voting ever be an epistemic closure criterion, or only a governance signal?
 
 ---
 
-### 7.3 Where should asymmetric burden operate?
+### 9.3 Where may asymmetric burden legitimately operate?
 
-Qwen proposes a strong reversal:
+Qwen proposes a strong reversal of proof burden for foreseeable-domain harms.
 
-> if a harm falls within the foreseeable risk domain of an initiating action, the actor must demonstrate independence of the harm from the action.
+DeepSeek, Kimi, Grok, Meta, Perplexity, Claude, OLMo, and Cohere support lower barriers for affected or low-power parties in some form.
 
-OLMo, Grok, Meta, Perplexity, and Claude also support easier reopening for affected or low-power parties, though with different safeguards.
+Mistral resists claimant power as the principal weighting variable and prefers evidence novelty, specificity, and lineage independence.
 
-Mistral explicitly resists claimant-power as the main weighting variable and prefers **novelty, specificity, and independence of evidence**.
+Perplexity introduces a crucial separation:
 
-Perplexity makes a crucial distinction: severity may lower the threshold for **reopening, monitoring, preservation, or precaution**, but should not lower the truth standard for asserting causation.
+- severity may lower the threshold for **investigation**;
+- severity may lower the threshold for **monitoring / preservation**;
+- severity may justify **precaution**;
+- but severity should not silently lower the truth standard for final causal attribution.
 
-This yields a central unresolved distinction:
+This suggests four burdens must be separated:
 
-- asymmetric **investigation burden**;
-- asymmetric **evidence-preservation / disclosure burden**;
-- asymmetric **precaution burden**;
-- asymmetric **truth / attribution burden**.
-
-These should not be treated as the same thing.
-
----
-
-### 7.4 Vulnerability-weighted reopening versus reopening-as-attack
-
-Most participants want low barriers for affected parties.
-
-But Claude and Mistral identify the mirror-image exploit:
-
-- proxy standing / astroturfed victims;
-- serial reopening as denial-of-service;
-- queue exhaustion by actors with more resources.
-
-Claude proposes petition provenance.  
-Mistral proposes weighting by evidence-lineage independence rather than claimant count or claimed vulnerability.
+1. investigation burden;
+2. evidence-preservation / disclosure burden;
+3. precaution burden;
+4. causal-proof burden.
 
 **Cross-critique question:**  
-What asymmetry protects weak parties without letting powerful parties manufacture weak proxies?
+Which of these may legitimately be asymmetric, and which must remain invariant?
 
 ---
 
-### 7.5 What should counterfactuals be?
+### 9.4 Vulnerability-weighted reopening versus reopening-as-attack
 
-There is convergence that one privileged simulated world is unsafe, but several competing replacements:
+Most responses lower the reopening barrier for affected parties.
 
-- Claude: prefer empirical counterfactuals; simulated baselines expire after structural breaks.
-- Meta: pre-register alternatives at decision time and score them later.
-- Qwen: bounded predictions rather than simulated whole worlds.
-- Mistral: multiple independent, adversarially generated baselines with disagreement as uncertainty.
-- Perplexity: a portfolio including historical trend, feasible alternative, comparison system, and challenger baseline.
-- Grok: versioned, continuously reality-scored baselines.
-- OLMo: diverse, versioned, immutable-as-used baselines subject to later reevaluation.
+But Claude, Kimi, Mistral, Meta, and Perplexity identify the mirror-image exploit:
 
-This looks less like contradiction than a design space that can probably be composed.
+- proxy standing;
+- astroturfed victims;
+- serial reopening;
+- harassment;
+- queue exhaustion;
+- asymmetric litigation cost.
+
+Proposed defenses differ:
+
+- Claude — petition provenance.
+- Kimi — reopening requests must name trigger class; abuse accumulates a cost record.
+- Mistral — price reopening by evidence-lineage independence and information novelty.
+- Perplexity — log evidentiary novelty, burden, cost, and yield.
+
+**Cross-critique question:**  
+How can the system protect low-bar standing without making low-bar standing a weapon?
 
 ---
 
-## 8. Unique contributions worth preserving
+### 9.5 What should counterfactuals be?
 
-These are low-recurrence ideas that should not be discarded merely because they occurred once.
+There is universal support for explicit counterfactual discipline, but significant disagreement on construction.
+
+- Claude — prefer empirical counterfactuals; simulated baselines expire under structural break.
+- Grok — versioned and continuously reality-scored baselines.
+- DeepSeek — distinguishes null, alternative-action, and structural counterfactuals; baseline selection itself is contestable.
+- Kimi — ex ante registration, plural baseline families, explicit option-set governance.
+- Meta — pre-register alternatives and score them against later reality.
+- Perplexity — counterfactual portfolios with feasibility and provenance.
+- Cohere — bounded baseline set generated by perturbing the same causal model.
+- Qwen — bounded predictions rather than full simulated worlds.
+- Mistral — independent adversarial model lineages and baseline disagreement as uncertainty.
+- OLMo — diverse, versioned, immutable-as-used baselines with later audit.
+
+Cohere's use of the **same model** for factual attribution and counterfactual generation directly conflicts with Mistral's self-confirmation critique and Claude's simulator-provenance concern.
+
+**Cross-critique question:**  
+Must at least one baseline come from an independent model lineage, or is transparent same-model simulation sufficient?
+
+---
+
+### 9.6 Should epistemic authority be reputation-weighted?
+
+Cohere proposes a reputation ledger where authority grows with past predictive accuracy and external verification.
+
+This offers a defense against raw resource dominance, but creates a new possible lock-in:
+
+- early winners gain more evidentiary weight;
+- novel dissenters begin with low reputation;
+- regime shifts can make historical predictive success misleading;
+- institutions may acquire epistemic incumbency.
+
+**Cross-critique question:**  
+Can reputation weight evidence without turning historical success into hereditary epistemic power?
+
+---
+
+### 9.7 What is the correct unit of closure?
+
+Different proposals close different objects:
+
+- Cohere — causal node / mesh entry with uncertainty budget;
+- OLMo — narrative convergence;
+- DeepSeek — a typed causal **question**;
+- Mistral — a monitoring commitment;
+- Meta / Perplexity / Kimi — a typed closure artifact with explicit scope.
+
+DeepSeek's objection is structurally important: one node may answer several different causal questions with different closure conditions.
+
+**Cross-critique question:**  
+Should the fundamental closeable object be a node, claim, question, narrative, or monitoring contract?
+
+---
+
+## 10. Unique contributions worth preserving
 
 ### Claude
-- "No formalism swap fixes a capture that lives in vocabulary and grain."
-- Structural-break detection should invalidate causal claims built on the prior generating structure.
+- No formalism swap fixes capture that lives in vocabulary and grain.
+- Structural-break detection should invalidate claims built on the previous generating structure.
 - Truthful causal updating should be firewalled from automatic self-incrimination.
-- Petition provenance is required to defend vulnerability-weighted reopening from proxy-standing attacks.
+- Petition provenance is needed against proxy-standing attacks.
 
 ### Grok
-- Explicit separation between epistemic confidence and decision-relevant confidence.
-- Dual-track ledger: structural causal state versus decision / closure state.
+- Separate epistemic confidence from decision-relevant confidence.
+- Dual-track ledger linking structural causal state to decision closure.
+
+### DeepSeek
+- Calibration is not correctness.
+- Closure is a property of a **question**, not of a node.
+- Reopening evaluation should be cheap; rewriting attribution should be expensive.
+- Adds **definitional causation** as a distinct evidence/causation class.
+- Audits the entire pipeline: variable selection → definition → data → model → estimation → reporting → contestation.
+- Inserts a **counterfactual delta** layer between causal trace and normative evaluation.
+- Proposes a Contested Causal Ledger.
+
+### Kimi
+- **Manufactured unobservability** as a first-class attack.
+- Precision is not accuracy; high-confidence closure under a misspecified model is especially dangerous.
+- `OBSERVATIONAL_GAP`, `ARCHIVE_LAPSE?`, and independent measurement rights.
+- `REFLEXIVE_NODE` with declared intractability.
+- `OPTION_SET_DEFINITION` as a governance surface.
+- Prediction Record and write-permission separation.
+- Anti-DoS trigger-class requirement for reopening.
 
 ### Meta
-- Closure artifact should record "what we deliberately do not know yet."
+- Closure artifact should record what the system deliberately does not know yet.
 - Capture signals should be able to reopen the closure mechanism itself.
 - Aggregation method should itself be an addressable object.
 
 ### Perplexity
-- A first-class **missingness ledger**.
-- **Causal representation rights**: affected parties can contest metrics, variables, mechanisms, baselines, and evidence preservation.
-- Four-layer split adding explicit epistemic status between causal trace and normative judgment.
+- First-class missingness ledger.
+- Causal representation rights.
+- Explicit epistemic-status layer between trace and normative judgment.
+- Severity may alter monitoring and precaution without silently changing truth standards.
+
+### Cohere
+- Causal Attribution Mesh (CAM) as a tamper-evident, signed causal ledger.
+- Explicit uncertainty budget.
+- Three separately signed epistemic / normative / remediation graphs.
+- Reputation based on externally verified predictive history.
+- A concrete cryptographic audit trail for causal-status changes.
 
 ### Qwen
-- **CLAB**: anticipated risk and monitoring commitments logged at `t0`.
+- Causal Ledger with Asymmetric Burden (CLAB).
+- Log anticipated risks and monitoring commitments at `t0`.
 - Strong burden reversal for foreseeable-domain harms.
-- `HIGH_EPISTEMIC_RISK?` when a high-capacity actor controls the evidence used to close a claim.
+- `HIGH_EPISTEMIC_RISK?` when the interested actor controls evidence used for closure.
 
 ### Mistral
 - Closure as a sensor-budget event rather than an epistemic event.
 - `BACKGROUND_STATUS?` as a contestable predicate.
-- Separate **event-causation** from **structure-causation**.
-- Reopening price based on information novelty / evidence-lineage independence.
+- Separate event-causation from structure-causation.
+- Reopening price based on information novelty / lineage independence.
 
 ### OLMo
-- Parallel causal narratives should remain visible rather than being prematurely collapsed.
-- Explicit adversarial auditors and appeal rights.
-- Strongest insistence on plural narratives — but its supermajority closure rule requires critique.
+- Parallel causal narratives should remain visible instead of being prematurely collapsed.
+- Independent adversarial auditors and explicit appeal rights.
+- Strongest plural-narrative proposal, though its supermajority closure rule requires direct critique.
 
 ---
 
-## 9. Provisional synthesis
+## 11. Provisional synthesis
 
-The seven analyzable responses do not support a simple "better causal graph" answer.
+The full ten-response set does not support a simple "better causal graph" answer.
 
-Their strongest joint direction is:
+Its strongest shared direction is:
 
-> **Causal attribution under uncertainty should be represented as a versioned, contestable, provenance-aware causal dossier/ledger in which the ontology, evidence production, structural dynamics, counterfactuals, closure decision, dissent, normative judgment, and repair capacity are separate addressable objects.**
+> **Causal attribution under uncertainty should be represented as a versioned, contestable, provenance-aware causal dossier/ledger/mesh in which the ontology, evidence production, structural dynamics, observational gaps, counterfactuals, closure decision, dissent, normative judgment, and repair capacity remain separate addressable objects.**
 
 The decisive shift is from:
 
@@ -367,47 +533,71 @@ The decisive shift is from:
 
 to:
 
-> "Maintain a revisable causal record whose own construction, blindness, budget, provenance, and capture surfaces are visible and contestable."
+> "Maintain a revisable causal record whose own construction, blindness, budget, provenance, model class, and capture surfaces are visible and contestable."
 
-The system should distinguish at least four different questions:
+At minimum the architecture must keep separate:
 
 1. **What happened?**
-2. **How strong is the evidence, and who controlled that evidence?**
-3. **What did the action change about the structure that generated later events?**
-4. **Who can and should repair the present situation?**
+2. **What type of causal claim is being made?**
+3. **How strong is the evidence, and who controlled its production?**
+4. **What evidence is missing, and why?**
+5. **What did the action change about the system that generated later events?**
+6. **What alternative histories are being used as baselines, and who selected them?**
+7. **Exactly what question is being provisionally closed?**
+8. **What observations would reopen it?**
+9. **What normative judgment, if any, follows?**
+10. **Who can repair the present state, regardless of sole authorship or malice?**
 
 Closure should mean **suspension of active investigation under declared residual uncertainty**, not final epistemic settlement.
 
-Power asymmetry should modify investigation, monitoring, disclosure, representation rights, and precaution. Whether it should also modify the final causal truth standard remains unresolved.
+Power asymmetry should clearly modify:
 
-Counterfactuals should survive only as plural, provenance-bearing, falsifiable reference objects — never as one privileged simulated history.
+- investigation intensity;
+- monitoring;
+- evidence preservation;
+- disclosure;
+- representation rights;
+- independent measurement access;
+- contestability;
+- precaution.
+
+Whether power asymmetry should also modify the final **truth standard for causal attribution** remains unresolved and should be attacked directly in cross-critique.
+
+Counterfactuals survive the first-pass round, but only as provenance-bearing, falsifiable, plural reference objects — never as one privileged simulated history.
+
+The strongest new object added by the full ten-response set is the **observational gap itself**: absence must be represented causally when observation was controllable, costly, selectively maintained, or strategically allowed to fail.
 
 ---
 
-## 10. Recommended cross-critique targets
+## 12. Recommended cross-critique targets
 
-A later cross-critique round should concentrate on the unresolved joints rather than asking participants to restate their first-pass views:
+The next round should attack the unresolved joints rather than restate first-pass positions:
 
-1. **Truth vs negotiated record:** Is causal truth itself socially negotiated, or only the model/record used to approach it?
-2. **Voting and closure:** Can evaluator supermajority ever legitimately close an epistemic causal claim?
-3. **Four burdens:** Separate burdens of investigation, disclosure/preservation, precaution, and causal proof. Which may be asymmetric?
-4. **Reopening attack:** How can low-bar affected-party standing be protected from proxy-standing and denial-of-service?
-5. **Minimal architecture:** Can the common latent architecture be reduced to a small set of mandatory addressable objects without becoming bureaucratically intractable?
-6. **Counterfactual discipline:** Which mix of empirical controls, pre-registered predictions, bounded forecasts, and adversarial baselines is minimally sufficient?
-7. **Structural causation:** How should event responsibility and environment-changing structural responsibility interact without double-counting or evasion?
+1. **Truth vs negotiated record:** Is causal truth socially negotiated, or only its representation?
+2. **Voting and closure:** Can evaluator supermajority ever close an epistemic claim?
+3. **Four burdens:** Which of investigation, disclosure, precaution, and causal proof may be asymmetric?
+4. **Reopening attack:** How do we protect low-power standing without enabling proxy standing and denial-of-service?
+5. **Unit of closure:** Node, question, claim, narrative, or monitoring contract?
+6. **Counterfactual independence:** Must at least one baseline come from an independent model lineage?
+7. **Reputation:** Can predictive reputation weight evidence without creating epistemic incumbency?
+8. **Minimal architecture:** Which objects are mandatory, and which are optional, before the system becomes bureaucratically intractable?
+9. **Structural causation:** How do event responsibility and structure responsibility interact without double-counting?
+10. **Missingness:** Under what conditions does an observational gap itself become evidence of causal or governance significance?
+11. **Definitional causation:** When does classification itself become part of the causal mechanism?
+12. **Model-class standing:** Who has the right and technical capacity to challenge the formalism itself rather than only its parameters?
 
 ---
 
-## 11. Scientific caution
+## 13. Scientific caution
 
 This is a comparison of independent **responses to the same Chair packet**, not independent experiments.
 
-Shared prompt content, overlapping training corpora, common technical literature, and similar safety/governance priors may explain some recurrence.
+Shared prompt content, overlapping training corpora, common technical literature, shared cultural assumptions, and common safety/governance priors can all generate convergence.
 
 Therefore:
 
 - recurrence is evidence of a stable attractor in the response space;
 - recurrence is **not** proof that the attractor is correct;
 - seeded recurrence must be weighted less than unseeded recurrence;
-- the three corrupted records must be restored before ten-participant claims are made;
-- cross-critique should attack the unresolved joints, not reward surface agreement.
+- evidence-lineage independence matters inside the Assembly just as it matters inside the proposed causal architecture;
+- cross-critique should attack the unresolved joints rather than reward surface agreement.
