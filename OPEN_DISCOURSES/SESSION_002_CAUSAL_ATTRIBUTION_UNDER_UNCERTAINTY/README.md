@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FIRST PASS OPEN — Frozen Topic and Chair Opening recorded; 3/10 responses  
+**Status:** FIRST PASS OPEN — Frozen Topic and Chair Opening recorded; 4/10 responses  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -51,3 +51,5 @@ The Frozen Topic and Chair Opening are now both recorded. First-pass invitations
 2. [xAI — Grok 4.5](RESPONSES/02_XAI_GROK_4_5.md) — recorded.
 
 3. [DeepSeek — latest reasoning model, web interface](RESPONSES/03_DEEPSEEK_WEB_REASONING_MODEL.md) — recorded.
+
+4. [Moonshot AI — Kimi](RESPONSES/04_MOONSHOT_KIMI.md) — recorded.
