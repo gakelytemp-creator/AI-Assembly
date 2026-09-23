@@ -10,3 +10,7 @@ The Frozen Topic is authoritative. The Chair Opening is visible to participants 
 A first-pass participant should identify its provider/model/interface as precisely as it can without guessing. Platform-visible provenance should be preserved whenever available, especially if it conflicts with model self-identification.
 
 No cross-critique should begin before the first-pass target is complete or the Chair explicitly closes the first-pass stage.
+
+## Recorded first-pass responses
+
+1. [Anthropic Claude — Opus 4.8, to the best of its knowledge](01_ANTHROPIC_CLAUDE_OPUS_4_8.md) — model-surface ambiguity preserved; participant reported seeing no earlier Session 002 participant responses.
