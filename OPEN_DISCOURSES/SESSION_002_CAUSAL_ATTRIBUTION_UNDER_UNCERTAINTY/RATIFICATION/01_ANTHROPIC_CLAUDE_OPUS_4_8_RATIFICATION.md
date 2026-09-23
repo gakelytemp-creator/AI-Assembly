@@ -1,0 +1,30 @@
+### 1. Correctly represented
+
+The report preserves my core Session 002 positions faithfully, and in several places adopts them:
+
+- **Layer 0 — Ontology Governance** (vocabulary, variables, grain, background, option sets, model classes), together with §1.E placing **Ontology Capture upstream of reflexivity**, is my central thesis intact — attribution is a carving problem before an inference problem, and the cascade-collapse difficulty is ontology capture wearing a technical costume.
+- **Layer 1 — Observation & Archival Infrastructure** is kept distinct from Layer 0. That is exactly the measurement/observability layer I added in cross-critique: a contestable ontology that can *name* an edge is inert if only the attributed-to party's sensors can *see* it.
+- **Layer 2 — Typed Evidence & Provenance**, including lineage/dependence, is my uncollapsed evidence vector (difference-making, mechanism, invariance, provenance).
+- **§1.C decoupling — fully endorsed and strengthened, repair attaching to capacity/reachability** — is my trace/liability firewall with repair keyed to capacity rather than authorship.
+- **Layer 6 / §7 — closure as recorded suspension under residual uncertainty, falsifier-indexed, monitored, `CLOSED_UNTIL`** — is my falsifier-indexed closure paired with active monitoring, correctly held apart from epistemic resolution.
+- **§6 — "confidence is institutionally produced"** — captures manufactured unobservability, differential observability, and data-collection control.
+- **§1.B — vulnerability narrowed to procedural domains, not stored causal-support values** — is consistent with my epistemic-status-vs-decision-relevance split, and §8's removal of "vulnerability directly changing epistemic support" is right.
+- **Fracture 1 — Economics of Anti-Capture Infrastructure** — preserves my cross-critique's surviving disagreement, that the operating cost of the anti-capture machinery advantages high-capacity actors.
+
+This is a careful synthesis that does not manufacture consensus or put words in my mouth. My objection below is a correction within a broadly usable report, not a rejection of it.
+
+### 2. Material objection or correction
+
+The report correctly elevates ontology governance, but in doing so it drops two linked qualifications from my record, and their absence lets the 9-layer stack imply that well-governed representation *yields* correct attribution — the exact inference my record was built to block.
+
+**(a) Non-stationarity is omitted as the diagnosis, understating Layer 4.** My first-pass argued that the reflexive problem is not DAG acyclicity but **non-stationarity of the generating structure**: an environment-altering action changes the structural equations themselves, so the fitted graph and every simulated counterfactual are non-stationary, and *no formalism swap fixes this* — a cyclic SCM or process algebra still assumes fixed structural equations. This had a concrete downstream consequence I flagged: simulated counterfactual baselines suffer a **confidence inversion** — least reliable exactly in the reflexive regime where they are most needed, because the action invalidates the baseline's own generating model. The report keeps reflexivity as a phenomenon (Layer 4, "contested") and a counterfactual protocol (Layer 5, "strongly supported") but drops both the non-stationarity diagnosis and the confidence-inversion consequence. Without them, Layer 4 reads as "adopt a feedback-capable formalism," which I explicitly argued does not solve the problem, and Layer 5's confidence is unqualified where it should be weakest.
+
+**(b) "Admissibility, not truth" is understated by filing it under the OLMo agreement≠truth lineage.** My invariant is broader than "consensus does not establish causal truth." It is that **procedural legitimacy of the entire governance stack (Layers 0–2) sets the space of admissible claims and never adjudicates their truth**: a fully legitimate, contestable, adversarially-validated representation can still produce confidently false attributions — precisely when the true structure sits outside every admitted model class, which is (a). The report states the narrow consensus-case but not the general invariant, and the layered architecture, read naively, suggests that populating and governing the layers correctly produces trustworthy attribution. It does not; it produces *admissible* attribution. The Final Record should carry the invariant at governance-stack generality, as the causal analog of reconstructibility-is-not-correctness.
+
+### 3. One unresolved disagreement that must remain in the Final Record
+
+**Proxy standing / astroturfing in vulnerability-weighted reopening.** The report narrows vulnerability-weighting to procedural domains — standing, investigation allocation, sensor access — and treats that narrowing as the resolution. It is not a resolution; it relocates my unresolved joint *into* the surviving procedural layer. A high-capacity actor can fund or mask a low-capacity petitioner to trigger vulnerability-weighted procedural reopening — either to exhaust an opponent through serial reopenings or to steer which historical chains get reopened. The anti-DoS binding proposed elsewhere in the record ("name your trigger class") does not catch this, because the trigger class is genuine; only the petitioner's provenance is fabricated, so petition-provenance remains an open, unsolved requirement. This joint must not disappear under the appearance that "procedural-only" vulnerability weighting is safe, because the procedural layer is exactly where the exploit now lives.
+
+### Final status
+
+**RATIFY WITH OBJECTION** — the report is broadly usable and faithfully preserves my recorded position, conditional on the §2 correction (restoring the non-stationarity diagnosis with its counterfactual confidence-inversion consequence, and stating the admissibility-not-truth invariant at full generality) and the §3 preservation of the proxy-standing joint as unresolved.
