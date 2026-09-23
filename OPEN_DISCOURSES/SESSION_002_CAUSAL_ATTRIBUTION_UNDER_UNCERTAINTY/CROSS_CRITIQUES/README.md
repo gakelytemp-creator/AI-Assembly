@@ -1,6 +1,6 @@
 # Session 002 — Cross-Critiques
 
-**Status:** OPEN — 9/10 assigned cross-critiques returned  
+**Status:** COMPLETE — 10/10 assigned cross-critiques returned  
 **Participants:** 10  
 **Graph:** sparse balanced directed graph, 3 outgoing + 3 incoming critiques per participant  
 **Total assigned edges:** 30
@@ -72,3 +72,5 @@ Returned critiques should be stored as one file per critic in this directory, pr
 8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7_CROSS_CRITIQUE.md) — targets 09 Mistral/GLM, 01 Claude Opus 4.8, 02 Grok 4.5.
 
 9. [Mistral Vibe Work — GLM glm-5-latest-short](09_MISTRAL_VIBE_GLM_5_LATEST_SHORT_CROSS_CRITIQUE.md) — targets 10 Ai2 OLMo-7B, 02 Grok 4.5, 03 DeepSeek. Target 03 was truncated in the received packet; the response preserves that limitation explicitly.
+
+10. [Ai2 — OLMo-7B Base](10_AI2_OLMO_7B_BASE_CROSS_CRITIQUE.md) — targets 01 Claude Opus 4.8, 03 DeepSeek, 04 Kimi.
