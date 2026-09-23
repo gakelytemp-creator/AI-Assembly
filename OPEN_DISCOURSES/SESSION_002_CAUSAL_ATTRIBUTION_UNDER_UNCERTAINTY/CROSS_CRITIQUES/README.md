@@ -1,6 +1,6 @@
 # Session 002 — Cross-Critiques
 
-**Status:** OPEN — 1/10 assigned cross-critiques returned  
+**Status:** OPEN — 2/10 assigned cross-critiques returned  
 **Participants:** 10  
 **Graph:** sparse balanced directed graph, 3 outgoing + 3 incoming critiques per participant  
 **Total assigned edges:** 30
@@ -56,3 +56,5 @@ Returned critiques should be stored as one file per critic in this directory, pr
 ## Returned critiques
 
 1. [Anthropic — Claude Opus 4.8](01_ANTHROPIC_CLAUDE_OPUS_4_8_CROSS_CRITIQUE.md) — targets 02 Grok 4.5, 04 Kimi, 05 Meta Muse Spark 1.1.
+
+2. [xAI — Grok 4.5](02_XAI_GROK_4_5_CROSS_CRITIQUE.md) — targets 03 DeepSeek, 05 Meta Muse Spark 1.1, 06 Perplexity.
