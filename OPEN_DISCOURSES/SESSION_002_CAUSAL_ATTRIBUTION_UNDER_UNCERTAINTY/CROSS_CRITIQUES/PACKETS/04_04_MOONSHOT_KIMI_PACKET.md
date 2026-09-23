@@ -29,6 +29,10 @@ Standing methodological rule:
 
 > **Agreement is not truth; recurrence is not proof.**
 
+## Source-integrity note
+
+Target 05 — Meta Muse Spark 1.1 contains source-side web-rendering artifacts inherited from the preserved original record (including LaTeX image-link rendering, a missing section heading around the layer stack, and stray renderer text such as `svgСкрыто строк: 2`). Do not reconstruct or infer missing text. Critique only the legibly preserved content.
+
 ### Participant-specific pressure test
 
 Defend manufactured unobservability as an evidentiary object without turning every missing datum into suspicion; specify when OBSERVATIONAL_GAP becomes causally significant.
