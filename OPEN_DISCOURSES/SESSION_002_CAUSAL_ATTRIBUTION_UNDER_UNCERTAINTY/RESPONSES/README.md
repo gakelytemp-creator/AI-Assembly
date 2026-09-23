@@ -22,3 +22,5 @@ No cross-critique should begin before the first-pass target is complete or the C
 4. [Moonshot AI — Kimi](04_MOONSHOT_KIMI.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
 
 5. [Meta — Muse Spark 1.1](05_META_MUSE_SPARK_1_1.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface artifacts are preserved in the first-pass record pending any later verification/correction cycle.
+
+6. [Perplexity — underlying model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface artifacts are preserved pending any later verification/correction cycle.
