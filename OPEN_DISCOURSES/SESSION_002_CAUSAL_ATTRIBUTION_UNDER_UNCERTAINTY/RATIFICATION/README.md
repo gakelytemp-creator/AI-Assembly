@@ -1,6 +1,6 @@
 # Session 002 — Ratification / Objection Round
 
-**Status:** OPEN — 6/10 participant ratification records returned
+**Status:** OPEN — 7/10 participant ratification records returned
 
 Standing rule:
 
@@ -17,3 +17,5 @@ Standing rule:
 5. [Meta — Muse Spark 1.1](05_META_MUSE_SPARK_1_1_RATIFICATION.md) — **RATIFY** (participant wording: **ENDORSED**).
 
 6. [Perplexity — model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
+
+7. [Cohere — Command](07_COHERE_COMMAND_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
