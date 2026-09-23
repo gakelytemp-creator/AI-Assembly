@@ -28,3 +28,5 @@ No cross-critique should begin before the first-pass target is complete or the C
 7. [Cohere — Command, exact version not exposed](07_COHERE_COMMAND.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses. Raw interface/planning artifacts are preserved pending any later verification/correction cycle.
 
 8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
+
+9. [Mistral Vibe Work — GLM `glm-5-latest-short`](09_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
