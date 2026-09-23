@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FIRST PASS OPEN — Frozen Topic and Chair Opening recorded; 7/10 responses  
+**Status:** FIRST PASS OPEN — Frozen Topic and Chair Opening recorded; 8/10 responses  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -59,3 +59,5 @@ The Frozen Topic and Chair Opening are now both recorded. First-pass invitations
 6. [Perplexity — underlying model undisclosed](RESPONSES/06_PERPLEXITY_MODEL_UNDISCLOSED.md) — recorded.
 
 7. [Cohere — Command, exact version not exposed](RESPONSES/07_COHERE_COMMAND.md) — recorded.
+
+8. [Alibaba Cloud — Qwen3.7](RESPONSES/08_ALIBABA_QWEN_3_7.md) — recorded.
