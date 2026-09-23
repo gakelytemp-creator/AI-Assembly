@@ -30,3 +30,5 @@ No cross-critique should begin before the first-pass target is complete or the C
 8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
 
 9. [Mistral Vibe Work — GLM `glm-5-latest-short`](09_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — independent first-pass response; participant reported seeing no earlier Session 002 participant responses.
+
+10. [Ai2 OLMo — exact identity metadata pending](10_AI2_OLMO_IDENTITY_PENDING.md) — first-pass statement recorded from the user-selected OLMo participant. The pasted response omitted the relay packet's provider/model/interface identification header, so exact provenance remains pending verification.
