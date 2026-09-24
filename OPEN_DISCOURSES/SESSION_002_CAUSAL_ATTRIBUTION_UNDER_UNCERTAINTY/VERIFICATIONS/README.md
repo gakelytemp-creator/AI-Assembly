@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 5/10 participant verification responses returned; 3 VERIFIED, 1 UNVERIFIABLE, 1 CORRECTION REQUIRED / REVERIFICATION PENDING
+**Status:** OPEN — 5/10 participant verification records resolved; 4 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -73,7 +73,7 @@ It does not imply agreement with:
 2. xAI — Grok 4.5 — **VERIFIED**
 3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 4. Moonshot AI — Kimi — **PENDING**
-5. Meta — Muse Spark 1.1 — **FINAL REVERIFICATION PENDING** (all participant-supplied rendering/truncation corrections applied)
+5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
 6. Perplexity — model undisclosed — **PENDING**
 7. Cohere — Command — **PENDING**
 8. Alibaba Cloud — Qwen3.7 — **PENDING**
