@@ -25,3 +25,5 @@ Standing rule:
 9. [Mistral Vibe Work — GLM `glm-5-latest-short`](09_MISTRAL_VIBE_GLM_5_LATEST_SHORT_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
 
 10. [Ai2 — OLMo-7B Base](10_AI2_OLMO_7B_BASE_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
+
+11. [Ratification Synthesis](11_RATIFICATION_SYNTHESIS.md) — **COMPLETE**.
