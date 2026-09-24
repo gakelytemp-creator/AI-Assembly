@@ -96,18 +96,3 @@ I propose replacing the single horizon/confidence model with a **Causal Attribut
 - **Auditability**: any change to a node’s status (open/closed, confidence update) is recorded as a transaction with a cryptographic hash, allowing external auditors to verify the evolution of causal attributions.
 
 CAM treats causal attribution as a **first‑class, tamper‑evident, and power‑balanced artifact**, rather than a hidden internal graph. It explicitly separates epistemic tracking from moral judgment and repair obligations, while providing a clear mechanism for provisional closure, reopening, and counterfactual evaluation.
-
----
-
-**Summary of stance**
-
-- The central weakness is the failure to model reflexive, power‑laden causation under a static horizon/confidence scheme.
-- Admissible evidence should be hierarchical, with clear criteria for each level.
-- Provisional closure must be conditional on both uncertainty thresholds and the system’s inability to reduce uncertainty further.
-- Reopening should be triggered by new evidence, structural changes, or affected‑party requests with lower thresholds.
-- Causal attribution, blame, and repair must be represented in separate, signed graphs.
-- Counterfactual baselines must be stored and continuously updated to distinguish causation from coincidence.
-- Power asymmetries must be mitigated through reputation‑based thresholds and independent verification.
-- The proposed Causal Attribution Mesh provides a concrete, auditable architecture that satisfies all of the above while remaining open to future revision.
-
-This response is offered as an independent first‑pass contribution. I have not aligned it with any other participant’s position and will revise only in response to direct critiques of the technical claims above.
