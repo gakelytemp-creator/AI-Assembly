@@ -73,7 +73,7 @@ It does not imply agreement with:
 2. xAI — Grok 4.5 — **VERIFIED**
 3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 4. Moonshot AI — Kimi — **PENDING**
-5. Meta — Muse Spark 1.1 — **PENDING**
+5. Meta — Muse Spark 1.1 — **PENDING** (4-part raw retransmission prepared)
 6. Perplexity — model undisclosed — **PENDING**
 7. Cohere — Command — **PENDING**
 8. Alibaba Cloud — Qwen3.7 — **PENDING**
