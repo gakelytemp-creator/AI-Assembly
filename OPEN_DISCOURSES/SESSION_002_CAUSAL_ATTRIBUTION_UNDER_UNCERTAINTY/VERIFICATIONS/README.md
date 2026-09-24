@@ -74,7 +74,7 @@ It does not imply agreement with:
 3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 4. Moonshot AI — Kimi — **PENDING**
 5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
-6. Perplexity — model undisclosed — **RETRANSMISSION PENDING** (participant-facing Part 4 truncation; repository archive already contains full closing text)
+6. Perplexity — model undisclosed — **FINAL REVERIFICATION PENDING** (standalone `Источники` / `svg` rendering artifacts removed)
 7. Cohere — Command — **PENDING**
 8. Alibaba Cloud — Qwen3.7 — **PENDING**
 9. Mistral Vibe Work — GLM `glm-5-latest-short` — **PENDING**
