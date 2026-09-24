@@ -1,6 +1,6 @@
 # Session 002 — Ratification / Objection Round
 
-**Status:** OPEN — 8/10 participant ratification records returned
+**Status:** OPEN — 9/10 participant ratification records returned
 
 Standing rule:
 
@@ -21,3 +21,5 @@ Standing rule:
 7. [Cohere — Command](07_COHERE_COMMAND_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
 
 8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
+
+9. [Mistral Vibe Work — GLM `glm-5-latest-short`](09_MISTRAL_VIBE_GLM_5_LATEST_SHORT_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
