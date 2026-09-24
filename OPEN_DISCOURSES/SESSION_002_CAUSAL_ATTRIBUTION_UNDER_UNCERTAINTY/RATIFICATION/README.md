@@ -1,6 +1,6 @@
 # Session 002 — Ratification / Objection Round
 
-**Status:** COMPLETE — 10/10 participant ratification records returned
+**Status:** COMPLETE — 10/10 ratification records returned; FINAL RECORD FROZEN
 
 Standing rule:
 
@@ -27,3 +27,9 @@ Standing rule:
 10. [Ai2 — OLMo-7B Base](10_AI2_OLMO_7B_BASE_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
 
 11. [Ratification Synthesis](11_RATIFICATION_SYNTHESIS.md) — **COMPLETE**.
+
+12. [Final Chair Editorial Integration Packet](12_FINAL_CHAIR_EDITORIAL_INTEGRATION_PACKET.md) — archived workflow packet.
+13–19. Final integration validation/correction trail — archived provenance.
+20. [Final Freeze Validation](20_FINAL_FREEZE_VALIDATION.md) — **PASSED**.
+
+Final record: [../SESSION_002_FINAL_REPORT.md](../SESSION_002_FINAL_REPORT.md) — **FROZEN**.
