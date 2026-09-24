@@ -64,7 +64,9 @@ Not "new evidence arrived." That is too low and weaponizable. Triggers should be
 
 Reopening should target the *class* of decision first, not just the individual instance, when delay is long. This prevents retroactive blame for knowledge the past could not have.
 
-Reopening a
+Reopening attempts must themselves be markable for cost, harassment, and ASYMMETRIC_REVISION_BURDEN? Eternal relitigation is a harm vector.
+
+#### 5. Separation of causal attribution, blame, and repair
 
 ```
 LAYER 0 — Epistemic Trace (what happened, with graded evidence)    ↓LAYER 1 — Structural Analysis (how it changed incentives/options/capacities)    ↓LAYER 2 — Normative Evaluation (HARM?, POWER_ASYMMETRY?, RECOURSE_DEFICIT?)    ↓LAYER 3 — Remediation Assignment (who has capacity/duty to repair, independent of moral malice)
