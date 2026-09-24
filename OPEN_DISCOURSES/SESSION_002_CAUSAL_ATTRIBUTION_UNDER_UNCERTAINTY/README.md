@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** CROSS-CRITIQUE ROUND 1 OPEN — 10/10 first-pass responses complete; 30 directed critique edges assigned  
+**Status:** FROZEN — Session 002 complete; final report ratified and archived  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -65,3 +65,14 @@ A **full 10-response provisional comparative synthesis** is recorded below. The 
 9. [Mistral Vibe Work — GLM `glm-5-latest-short`](RESPONSES/09_MISTRAL_VIBE_GLM_5_LATEST_SHORT.md) — recorded.
 
 10. [Ai2 — OLMo-7B (base)](RESPONSES/10_AI2_OLMO_7B_BASE.md) — recorded; participant-supplied provenance archived.
+
+
+## Final freeze
+
+Session 002 is complete and frozen.
+
+- [SESSION_002_FINAL_REPORT.md](SESSION_002_FINAL_REPORT.md) — frozen final record.
+- [RATIFICATION/11_RATIFICATION_SYNTHESIS.md](RATIFICATION/11_RATIFICATION_SYNTHESIS.md) — ratification synthesis.
+- [RATIFICATION/20_FINAL_FREEZE_VALIDATION.md](RATIFICATION/20_FINAL_FREEZE_VALIDATION.md) — final regression/freeze validation.
+
+> Agreement is not truth; recurrence is not proof.
