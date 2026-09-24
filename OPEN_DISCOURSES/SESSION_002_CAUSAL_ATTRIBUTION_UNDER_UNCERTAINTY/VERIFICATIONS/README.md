@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 6/10 participant verification responses returned; 4 VERIFIED, 1 UNVERIFIABLE, 1 retransmission pending
+**Status:** OPEN — 6/10 participant verification records resolved; 5 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -74,7 +74,7 @@ It does not imply agreement with:
 3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 4. Moonshot AI — Kimi — **PENDING**
 5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
-6. Perplexity — model undisclosed — **FINAL REVERIFICATION PENDING** (standalone `Источники` / `svg` rendering artifacts removed)
+6. Perplexity — model undisclosed — **VERIFIED** (participant-facing truncation retried; standalone rendering artifacts removed; final reverification completed)
 7. Cohere — Command — **PENDING**
 8. Alibaba Cloud — Qwen3.7 — **PENDING**
 9. Mistral Vibe Work — GLM `glm-5-latest-short` — **PENDING**
