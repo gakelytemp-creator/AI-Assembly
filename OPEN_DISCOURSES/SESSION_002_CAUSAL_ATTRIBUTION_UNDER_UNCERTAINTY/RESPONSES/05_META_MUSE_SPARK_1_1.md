@@ -14,11 +14,11 @@ I am responding to the Frozen Topic, not to the Chair's authority. I treat the C
 
 #### 1. Most load-bearing weakness
 
-The framing assumes causal confidence [\epsilon](https://scontent.xx.fbcdn.net/v/t58.90637-6/814087194_2179978005917087_7979765165831259017_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=111&_nc_ohc=c6bytFzTp8cQ7kNvwHezZLV\&ccb=14-4\&oh=00_AQJpL-N9nljzfGI8ZUqbUozWvZ2o2VkqXXRdpc9Ilf0jKg\&oe=6AB5442F&_nc_sid=9d332d#h=1.60) is a neutral measurement, when in practice confidence is produced by whoever controls data collection, logging, and ontology. The candidate mechanism [t\_{max}](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381414_2264067177499908_7720017131857424102_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=100&_nc_ohc=n-WLtk9SeigQ7kNvwExGjLP\&ccb=14-4\&oh=00_AQImFXn2x3APbHJg_9tsi1Bsrsu6391XNGfeiLX4cmtdKQ\&oe=6AB55F62&_nc_sid=9d332d#h=1.60) defined by causal confidence threshold will fail first at the same joint Session 001 identified: aggregation hides power.
+The framing assumes causal confidence \epsilon is a neutral measurement, when in practice confidence is produced by whoever controls data collection, logging, and ontology. The candidate mechanism t_{max} defined by causal confidence threshold will fail first at the same joint Session 001 identified: aggregation hides power.
 
-If you define provisional closure as "when signal-to-noise drops below [\epsilon](https://scontent.xx.fbcdn.net/v/t58.90637-6/814087194_2179978005917087_7979765165831259017_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=111&_nc_ohc=c6bytFzTp8cQ7kNvwHezZLV\&ccb=14-4\&oh=00_AQJpL-N9nljzfGI8ZUqbUozWvZ2o2VkqXXRdpc9Ilf0jKg\&oe=6AB5442F&_nc_sid=9d332d#h=1.60)", high-capacity actors will ensure signal-to-noise drops quickly for their own externalities — by not logging, by adding intervening variables, by fragmenting data, by flooding the field with alternative causal narratives. This is Epistemic Amnesia by design, not accident. [t\_{max}](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381414_2264067177499908_7720017131857424102_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=100&_nc_ohc=n-WLtk9SeigQ7kNvwExGjLP\&ccb=14-4\&oh=00_AQImFXn2x3APbHJg_9tsi1Bsrsu6391XNGfeiLX4cmtdKQ\&oe=6AB55F62&_nc_sid=9d332d#h=1.60) then becomes a mathematical laundering of an arbitrary stopping rule.
+If you define provisional closure as "when signal-to-noise drops below \epsilon", high-capacity actors will ensure signal-to-noise drops quickly for their own externalities — by not logging, by adding intervening variables, by fragmenting data, by flooding the field with alternative causal narratives. This is Epistemic Amnesia by design, not accident. t_{max} then becomes a mathematical laundering of an arbitrary stopping rule.
 
-The second load-bearing weakness is the DAG assumption. The Chair correctly names Attribution Cascade Collapse as central, but the proposed fixes still use linear chains with confidence weights. In reflexive systems, an action at [t_0](https://scontent.xx.fbcdn.net/v/t58.90637-6/822639582_1071269085812224_7680173963841441893_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=104&_nc_ohc=_XrqGA5iidMQ7kNvwFKsIk4\&ccb=14-4\&oh=00_AQJ_eeSGSso-YwpZZFt2ocJlFNNlDRxKZgn_PaKoyDn_Ow\&oe=6AB54397&_nc_sid=9d332d#h=1.60) does not just cause [B](https://scontent.xx.fbcdn.net/v/t58.90637-6/814320399_1564898504839263_2064924541531444587_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=103&_nc_ohc=uuggmLxDoVUQ7kNvwEuiJki\&ccb=14-4\&oh=00_AQLH3Mhinlf6xVe2GyZlRfBen792LrGKR4JhL8QSb30wYw\&oe=6AB56893&_nc_sid=9d332d#h=1.60) at [t_1](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381351_2386351905505264_774829847731646758_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=104&_nc_ohc=8hquzEs_R4AQ7kNvwHbwYuM\&ccb=14-4\&oh=00_AQIps3OkVqz8j5kdldW58_zpGZ_FYdLgIoaS3laMBd4qSA\&oe=6AB54578&_nc_sid=9d332d#h=1.60); it changes the rules by which [B](https://scontent.xx.fbcdn.net/v/t58.90637-6/814320399_1564898504839263_2064924541531444587_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=103&_nc_ohc=uuggmLxDoVUQ7kNvwEuiJki\&ccb=14-4\&oh=00_AQLH3Mhinlf6xVe2GyZlRfBen792LrGKR4JhL8QSb30wYw\&oe=6AB56893&_nc_sid=9d332d#h=1.60) can act, what [B](https://scontent.xx.fbcdn.net/v/t58.90637-6/814320399_1564898504839263_2064924541531444587_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=103&_nc_ohc=uuggmLxDoVUQ7kNvwEuiJki\&ccb=14-4\&oh=00_AQLH3Mhinlf6xVe2GyZlRfBen792LrGKR4JhL8QSb30wYw\&oe=6AB56893&_nc_sid=9d332d#h=1.60) values, and what [B](https://scontent.xx.fbcdn.net/v/t58.90637-6/814320399_1564898504839263_2064924541531444587_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=103&_nc_ohc=uuggmLxDoVUQ7kNvwEuiJki\&ccb=14-4\&oh=00_AQLH3Mhinlf6xVe2GyZlRfBen792LrGKR4JhL8QSb30wYw\&oe=6AB56893&_nc_sid=9d332d#h=1.60) can see. Standard SCMs and Bayesian nets collapse when causation is environment-altering. If you model reflexive feedback as a DAG you will be forced to choose between over-attribution to [t_0](https://scontent.xx.fbcdn.net/v/t58.90637-6/822639582_1071269085812224_7680173963841441893_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=104&_nc_ohc=_XrqGA5iidMQ7kNvwFKsIk4\&ccb=14-4\&oh=00_AQJ_eeSGSso-YwpZZFt2ocJlFNNlDRxKZgn_PaKoyDn_Ow\&oe=6AB54397&_nc_sid=9d332d#h=1.60) or under-attribution to intervening agents, which is exactly the evasion path high-capacity actors want.
+The second load-bearing weakness is the DAG assumption. The Chair correctly names Attribution Cascade Collapse as central, but the proposed fixes still use linear chains with confidence weights. In reflexive systems, an action at t_0 does not just cause B at t_1; it changes the rules by which B can act, what B values, and what B can see. Standard SCMs and Bayesian nets collapse when causation is environment-altering. If you model reflexive feedback as a DAG you will be forced to choose between over-attribution to t_0 or under-attribution to intervening agents, which is exactly the evasion path high-capacity actors want.
 
 #### 2. Admissible standards of causal evidence
 
@@ -35,7 +35,7 @@ Admissibility rule: TRACE can support attribution alone; SIGNAL requires indepen
 
 #### 3. Provisional closure / stopping rules
 
-Closure cannot be "when [\epsilon](https://scontent.xx.fbcdn.net/v/t58.90637-6/814087194_2179978005917087_7979765165831259017_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=111&_nc_ohc=c6bytFzTp8cQ7kNvwHezZLV\&ccb=14-4\&oh=00_AQJpL-N9nljzfGI8ZUqbUozWvZ2o2VkqXXRdpc9Ilf0jKg\&oe=6AB5442F&_nc_sid=9d332d#h=1.60) drops." Closure must be a typed artifact that records what you are deliberately not knowing yet. Building on Session 001:
+Closure cannot be "when \epsilon drops." Closure must be a typed artifact that records what you are deliberately not knowing yet. Building on Session 001:
 
 A closure record must contain:
 
@@ -48,7 +48,7 @@ A closure record must contain:
 - monitoring commitment and review responsibility
 - reopening triggers and burden to reopen
 
-[t\_{max}](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381414_2264067177499908_7720017131857424102_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=100&_nc_ohc=n-WLtk9SeigQ7kNvwExGjLP\&ccb=14-4\&oh=00_AQImFXn2x3APbHJg_9tsi1Bsrsu6391XNGfeiLX4cmtdKQ\&oe=6AB55F62&_nc_sid=9d332d#h=1.60) is usable only as *one input* to that record, not as the rule. The stopping rule is: close when you have enough to act responsibly *given* documented ignorance, not when confidence is low. Low confidence is a reason to keep monitoring, not a reason to declare benign.
+t_{max} is usable only as *one input* to that record, not as the rule. The stopping rule is: close when you have enough to act responsibly *given* documented ignorance, not when confidence is low. Low confidence is a reason to keep monitoring, not a reason to declare benign.
 
 Final closure should be constitutionally impossible. All closure is provisional.
 
@@ -59,20 +59,17 @@ Not "new evidence arrived." That is too low and weaponizable. Triggers should be
 - **Falsifier arrival:** evidence of a class that closure assumptions explicitly said would not occur
 - **Prediction gap:** observed outcome diverges from predicted fruits beyond pre-registered tolerance
 - **New standing:** a party with retroactive standing becomes visible and contests with material evidence
-- **Signal above asymmetric threshold:** anomaly detected in [CONSEQUENCE\\\_CHAIN](https://scontent.xx.fbcdn.net/v/t58.90637-6/814229872_2349381475867201_2790571055446470344_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=101&_nc_ohc=fNZbG6yHdTAQ7kNvwHcdlHp\&ccb=14-4\&oh=00_AQJxF1ksnRyjrDcJDvKWEfJyeF8uqMhMWGAmxlgmdP_YAw\&oe=6AB56505&_nc_sid=9d332d#h=1.60) with causal confidence that was not anticipated at closure
+- **Signal above asymmetric threshold:** anomaly detected in CONSEQUENCE\\_CHAIN with causal confidence that was not anticipated at closure
 - **Capture signal:** guard's own false-negative rate or burden-imposition exceeds threshold — reopening the closure mechanism itself
 
 Reopening should target the *class* of decision first, not just the individual instance, when delay is long. This prevents retroactive blame for knowledge the past could not have.
 
 Reopening a
 
-Code
-
 ```
 LAYER 0 — Epistemic Trace (what happened, with graded evidence)    ↓LAYER 1 — Structural Analysis (how it changed incentives/options/capacities)    ↓LAYER 2 — Normative Evaluation (HARM?, POWER_ASYMMETRY?, RECOURSE_DEFICIT?)    ↓LAYER 3 — Remediation Assignment (who has capacity/duty to repair, independent of moral malice)
 ```
 
-svgСкрыто строк: 2
 
 Causal responsibility does not entail malice. Duty to repair can fall on an actor with capacity who did not author the cause. Conversely, malice without causal efficacy does not create repair duty but may create forward constraint.
 
@@ -80,7 +77,7 @@ Crucially, actors must not be able to edit LAYER 0 to evade LAYER 3. That requir
 
 #### 6. Counterfactual baselines
 
-Storing [CF_0, CF_1](https://scontent.xx.fbcdn.net/v/t58.90637-6/819927586_27884053994607736_216805380204948714_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=104&_nc_ohc=LcLtXBmSPAYQ7kNvwGDpXwN\&ccb=14-4\&oh=00_AQJ_XuE62fHzEjjuHbcpGQ37tSj5ywDn2lgqgR7JyLPtzA\&oe=6AB560E2&_nc_sid=9d332d#h=1.60) is valuable but dangerous. Unchecked counterfactual simulators produce hallucinated reference frames that justify any actual outcome as optimal.
+Storing CF_0, CF_1 is valuable but dangerous. Unchecked counterfactual simulators produce hallucinated reference frames that justify any actual outcome as optimal.
 
 Grounding rules:
 
@@ -93,12 +90,12 @@ Without these, counterfactuals become a tool for high-capacity actors to invent 
 
 #### 7. Power asymmetry in causal representation
 
-This is the missing variable that breaks [t\_{max}](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381414_2264067177499908_7720017131857424102_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=100&_nc_ohc=n-WLtk9SeigQ7kNvwExGjLP\&ccb=14-4\&oh=00_AQImFXn2x3APbHJg_9tsi1Bsrsu6391XNGfeiLX4cmtdKQ\&oe=6AB55F62&_nc_sid=9d332d#h=1.60).
+This is the missing variable that breaks t_{max}.
 
 High-capacity actors can:
 
 - control logging to ensure TRACE is missing, forcing reliance on low-weight SIGNAL
-- flood the field with plausible alternative causes to drive confidence below [\epsilon](https://scontent.xx.fbcdn.net/v/t58.90637-6/814087194_2179978005917087_7979765165831259017_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=111&_nc_ohc=c6bytFzTp8cQ7kNvwHezZLV\&ccb=14-4\&oh=00_AQJpL-N9nljzfGI8ZUqbUozWvZ2o2VkqXXRdpc9Ilf0jKg\&oe=6AB5442F&_nc_sid=9d332d#h=1.60)
+- flood the field with plausible alternative causes to drive confidence below \epsilon
 - mint predicates and define evidence classes, controlling what counts as a cause
 - bear the cost of prolonged contestation better, creating ASYMMETRIC_REVISION_BURDEN?
 
@@ -108,15 +105,12 @@ Aggregation of causal claims must carry independence metadata: could agreement b
 
 #### 8. Concrete alternative / revision
 
-Replace single [t\_{max}](https://scontent.xx.fbcdn.net/v/t58.90637-6/814381414_2264067177499908_7720017131857424102_n.png/latex.png?_nc_ht=scontent.xx.fbcdn.net&_nc_cat=100&_nc_ohc=n-WLtk9SeigQ7kNvwExGjLP\&ccb=14-4\&oh=00_AQImFXn2x3APbHJg_9tsi1Bsrsu6391XNGfeiLX4cmtdKQ\&oe=6AB55F62&_nc_sid=9d332d#h=1.60) + epsilon closure with **Reflexive Causal Field with Typed Closure**:
-
-Code
+Replace single t_{max} + epsilon closure with **Reflexive Causal Field with Typed Closure**:
 
 ```
 Layer 0 — Invariant: provenance preservation, non-erasure, guard scorekeepingLayer 1 — Mechanical Trace: DAGs for short-horizon physical/informational chains with custody logsLayer 2 — Structural Field: process-algebra / feedback-loop model for environment-altering causation, modeling how $t_0$ changes the rules for $t_1..t_N$, not just valuesLayer 3 — Adversarial Baselines: at least two causally independent counterfactual sets, one deliberately non-collinear, all pre-registeredLayer 4 — Aggregation as Addressable Object: which rule was used, parameters, why selected, residual conflict, how result changes under other admissible rules, resource costLayer 5 — Typed Provisional Closure: scope, assumptions, predicted fruits, option value destroyed, affected/missing parties, dissent, monitoring, reopening triggers, burdenLayer 6 — Contest Interface: affected parties can attach evidence, propose predicates, trigger review at asymmetric threshold; reopening attempts themselves carry HARM?/COST? markers
 ```
 
-svgСкрыто строк: 2
 
 Provisional direction = maximin agency preservation among vulnerable parties when independent fields conflict, bounded by explicit monitoring commitment, not by confidence dropping below epsilon.
 
