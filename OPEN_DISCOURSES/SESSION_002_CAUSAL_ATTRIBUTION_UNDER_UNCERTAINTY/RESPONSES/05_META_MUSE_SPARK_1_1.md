@@ -68,6 +68,8 @@ Reopening attempts must themselves be markable for cost, harassment, and ASYMMET
 
 #### 5. Separation of causal attribution, blame, and repair
 
+This is non-negotiable and the Chair's decoupling is correct. I would harden it structurally:
+
 ```
 LAYER 0 — Epistemic Trace (what happened, with graded evidence)    ↓LAYER 1 — Structural Analysis (how it changed incentives/options/capacities)    ↓LAYER 2 — Normative Evaluation (HARM?, POWER_ASYMMETRY?, RECOURSE_DEFICIT?)    ↓LAYER 3 — Remediation Assignment (who has capacity/duty to repair, independent of moral malice)
 ```
