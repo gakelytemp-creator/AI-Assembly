@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 2/10 participant verification records returned; 1 VERIFIED, 1 UNVERIFIABLE
+**Status:** OPEN — 3/10 participant verification records returned; 2 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -71,7 +71,7 @@ It does not imply agreement with:
 
 1. Anthropic — Claude Opus 4.8 — **UNVERIFIABLE**
 2. xAI — Grok 4.5 — **VERIFIED**
-3. DeepSeek — web reasoning model — **PENDING RETRANSMISSION V2** (two participant-facing truncation failures; repository source remains complete)
+3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 4. Moonshot AI — Kimi — **PENDING**
 5. Meta — Muse Spark 1.1 — **PENDING**
 6. Perplexity — model undisclosed — **PENDING**
