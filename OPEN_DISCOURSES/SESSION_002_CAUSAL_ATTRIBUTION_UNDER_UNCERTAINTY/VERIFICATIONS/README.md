@@ -75,7 +75,7 @@ It does not imply agreement with:
 4. Moonshot AI — Kimi — **PENDING**
 5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
 6. Perplexity — model undisclosed — **VERIFIED** (participant-facing truncation retried; standalone rendering artifacts removed; final reverification completed)
-7. Cohere — Command — **TARGETED RECHECK PENDING** (Sections 2/6 confirmed in repository; participant-facing truncation; disputed `Summary of stance` isolated)
+7. Cohere — Command — **FINAL REVERIFICATION PENDING** (`Summary of stance` block removed as non-original; Sections 2/6 retained)
 8. Alibaba Cloud — Qwen3.7 — **PENDING**
 9. Mistral Vibe Work — GLM `glm-5-latest-short` — **PENDING**
 10. Ai2 — OLMo-7B Base — **PENDING**
