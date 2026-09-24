@@ -198,6 +198,3 @@ A causal claim should be understood not as “`A` caused `B`” in isolation, bu
 
 This architecture does not eliminate uncertainty. It makes uncertainty, evidence control, causal alternatives, and the costs of closure visible enough to contest. That is the relevant standard for a knowledge system operating without omniscience.
 
-Источники
-
-svg
