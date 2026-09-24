@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FINAL REPORT FROZEN — participant archive VERIFICATION ROUND OPEN (9/10 records resolved; 8 VERIFIED, 1 UNVERIFIABLE)  
+**Status:** COMPLETE AND FROZEN — participant archive verification CLOSED (10/10 recorded; 9 VERIFIED, 1 UNVERIFIABLE)
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -80,7 +80,9 @@ Session 002 is complete and frozen.
 
 ## Participant archive verification
 
-Session 002 Final Report is frozen, but the session is not procedurally complete until the ten first-pass archives have participant fidelity statuses.
+Session 002 participant archive verification is closed. All ten first-pass archives now have recorded fidelity statuses: **9 VERIFIED, 1 UNVERIFIABLE**.
 
 - [VERIFICATIONS/](VERIFICATIONS/) — verification protocol, packets, and returned records.
+- [VERIFICATIONS/11_VERIFICATION_SUMMARY.md](VERIFICATIONS/11_VERIFICATION_SUMMARY.md) — final verification outcomes.
+- [VERIFICATIONS/12_VERIFICATION_DOWNSTREAM_DEPENDENCY_AUDIT.md](VERIFICATIONS/12_VERIFICATION_DOWNSTREAM_DEPENDENCY_AUDIT.md) — downstream audit; no semantic amendments required.
 
