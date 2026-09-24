@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 9/10 participant verification records resolved; 8 VERIFIED, 1 UNVERIFIABLE
+**Status:** CLOSED — 10/10 participant verification records resolved; 9 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -72,10 +72,16 @@ It does not imply agreement with:
 1. Anthropic — Claude Opus 4.8 — **UNVERIFIABLE**
 2. xAI — Grok 4.5 — **VERIFIED**
 3. DeepSeek — web reasoning model — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
-4. Moonshot AI — Kimi — **PENDING**
+4. Moonshot AI — Kimi — **VERIFIED** (participant-identified non-substantive rendering artifacts removed)
 5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
 6. Perplexity — model undisclosed — **VERIFIED** (participant-facing truncation retried; standalone rendering artifacts removed; final reverification completed)
 7. Cohere — Command — **VERIFIED** (`Summary of stance` removed as non-original; transmission truncations documented; downstream dependency audit found no downstream correction required)
 8. Alibaba — Qwen 3.7 — **VERIFIED** (LaTeX math restored; contradictory intermediate Section 3 correction preserved in provenance; latest wording verified)
 9. Mistral Vibe / GLM — **VERIFIED** (first-pass archive verified; separate Mistral→DeepSeek cross-critique truncation remains a downstream provenance note)
-10. Ai2 — OLMo-7B Base — **PENDING**
+10. Ai2 — OLMo-7B Base — **VERIFIED** (canonical raw archive verified; no correction required)
+
+
+## Closure records
+
+- [11_VERIFICATION_SUMMARY.md](11_VERIFICATION_SUMMARY.md) — final 10/10 verification outcomes.
+- [12_VERIFICATION_DOWNSTREAM_DEPENDENCY_AUDIT.md](12_VERIFICATION_DOWNSTREAM_DEPENDENCY_AUDIT.md) — audit of whether verification corrections require downstream amendments.
