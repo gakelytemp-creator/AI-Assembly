@@ -76,6 +76,6 @@ It does not imply agreement with:
 5. Meta — Muse Spark 1.1 — **VERIFIED** (rendering artifacts and truncation repaired from participant-supplied exact text; final reverification completed)
 6. Perplexity — model undisclosed — **VERIFIED** (participant-facing truncation retried; standalone rendering artifacts removed; final reverification completed)
 7. Cohere — Command — **VERIFIED** (`Summary of stance` removed as non-original; transmission truncations documented; downstream dependency audit found no downstream correction required)
-8. Alibaba Cloud — Qwen3.7 — **PENDING**
+8. Alibaba — Qwen 3.7 — **FINAL REVERIFICATION PENDING** (Section 3 phrase corrected; mathematical LaTeX notation restored)
 9. Mistral Vibe Work — GLM `glm-5-latest-short` — **PENDING**
 10. Ai2 — OLMo-7B Base — **PENDING**
