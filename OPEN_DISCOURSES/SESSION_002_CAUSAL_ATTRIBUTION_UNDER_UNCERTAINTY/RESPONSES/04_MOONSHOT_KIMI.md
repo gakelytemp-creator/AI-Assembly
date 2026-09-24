@@ -78,9 +78,6 @@ Beyond what §1 established, four concrete mechanisms:
 
 I propose replacing the flat causal graph with five layers under distinct write disciplines:
 
-**plain**
-
-svg
 
 ```plain
 L0  EVENT LOG (append-only, Tier-0 provenance integrity)
