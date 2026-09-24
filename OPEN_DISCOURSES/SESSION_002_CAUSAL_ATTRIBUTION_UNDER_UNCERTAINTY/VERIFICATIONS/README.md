@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 4/10 participant verification responses returned; 2 VERIFIED, 1 UNVERIFIABLE, 1 CORRECTION REQUIRED / REVERIFICATION PENDING
+**Status:** OPEN — 4/10 participant verification records resolved; 3 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
