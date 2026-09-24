@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 8/10 participant verification records resolved; 7 VERIFIED, 1 UNVERIFIABLE
+**Status:** OPEN — 9/10 participant verification records resolved; 8 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -77,5 +77,5 @@ It does not imply agreement with:
 6. Perplexity — model undisclosed — **VERIFIED** (participant-facing truncation retried; standalone rendering artifacts removed; final reverification completed)
 7. Cohere — Command — **VERIFIED** (`Summary of stance` removed as non-original; transmission truncations documented; downstream dependency audit found no downstream correction required)
 8. Alibaba — Qwen 3.7 — **VERIFIED** (LaTeX math restored; contradictory intermediate Section 3 correction preserved in provenance; latest wording verified)
-9. Mistral Vibe Work — GLM `glm-5-latest-short` — **PENDING**
+9. Mistral Vibe / GLM — **VERIFIED** (first-pass archive verified; separate Mistral→DeepSeek cross-critique truncation remains a downstream provenance note)
 10. Ai2 — OLMo-7B Base — **PENDING**
