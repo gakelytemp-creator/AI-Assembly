@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FROZEN — Session 002 complete; final report ratified and archived  
+**Status:** FINAL REPORT FROZEN — participant archive VERIFICATION ROUND OPEN (0/10)  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
@@ -76,3 +76,11 @@ Session 002 is complete and frozen.
 - [RATIFICATION/20_FINAL_FREEZE_VALIDATION.md](RATIFICATION/20_FINAL_FREEZE_VALIDATION.md) — final regression/freeze validation.
 
 > Agreement is not truth; recurrence is not proof.
+
+
+## Participant archive verification
+
+Session 002 Final Report is frozen, but the session is not procedurally complete until the ten first-pass archives have participant fidelity statuses.
+
+- [VERIFICATIONS/](VERIFICATIONS/) — verification protocol, packets, and returned records.
+
