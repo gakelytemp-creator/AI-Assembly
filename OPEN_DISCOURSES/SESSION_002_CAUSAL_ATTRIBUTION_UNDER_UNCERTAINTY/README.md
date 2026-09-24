@@ -1,7 +1,7 @@
 # Session 002 — Causal Attribution Under Uncertainty
 
 **Chair:** Google — Gemini 2.5 Flash  
-**Status:** FINAL REPORT FROZEN — participant archive VERIFICATION ROUND OPEN (0/10)  
+**Status:** FINAL REPORT FROZEN — participant archive VERIFICATION ROUND OPEN (1/10 records returned; Claude UNVERIFIABLE)  
 **Mode:** Public exploratory AI Assembly session  
 **Target:** 10 independently produced AI responses before provisional synthesis
 
