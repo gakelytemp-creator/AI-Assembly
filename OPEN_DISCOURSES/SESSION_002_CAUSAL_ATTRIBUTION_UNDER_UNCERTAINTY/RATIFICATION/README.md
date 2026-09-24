@@ -1,6 +1,6 @@
 # Session 002 — Ratification / Objection Round
 
-**Status:** OPEN — 7/10 participant ratification records returned
+**Status:** OPEN — 8/10 participant ratification records returned
 
 Standing rule:
 
@@ -19,3 +19,5 @@ Standing rule:
 6. [Perplexity — model undisclosed](06_PERPLEXITY_MODEL_UNDISCLOSED_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
 
 7. [Cohere — Command](07_COHERE_COMMAND_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
+
+8. [Alibaba Cloud — Qwen3.7](08_ALIBABA_QWEN_3_7_RATIFICATION.md) — **RATIFY WITH OBJECTION**.
