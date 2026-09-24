@@ -1,6 +1,6 @@
 # Session 002 — Participant Archive Verification
 
-**Status:** OPEN — 0/10 first-pass archives verified
+**Status:** OPEN — 1/10 participant verification records returned; 0 VERIFIED, 1 UNVERIFIABLE
 
 This is an **archival fidelity check**, not a second deliberation round and not another ratification round.
 
@@ -69,7 +69,7 @@ It does not imply agreement with:
 
 ## Participants
 
-1. Anthropic — Claude Opus 4.8 — **PENDING**
+1. Anthropic — Claude Opus 4.8 — **UNVERIFIABLE**
 2. xAI — Grok 4.5 — **PENDING**
 3. DeepSeek — web reasoning model — **PENDING**
 4. Moonshot AI — Kimi — **PENDING**
