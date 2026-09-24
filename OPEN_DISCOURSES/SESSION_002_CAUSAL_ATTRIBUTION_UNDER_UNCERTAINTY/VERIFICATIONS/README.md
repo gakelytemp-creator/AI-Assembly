@@ -71,7 +71,7 @@ It does not imply agreement with:
 
 1. Anthropic — Claude Opus 4.8 — **UNVERIFIABLE**
 2. xAI — Grok 4.5 — **VERIFIED**
-3. DeepSeek — web reasoning model — **PENDING**
+3. DeepSeek — web reasoning model — **PENDING RETRANSMISSION** (attempt 1 unverifiable due packet truncation)
 4. Moonshot AI — Kimi — **PENDING**
 5. Meta — Muse Spark 1.1 — **PENDING**
 6. Perplexity — model undisclosed — **PENDING**
