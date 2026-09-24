@@ -102,7 +102,6 @@ The Chair's three-layer stack is correct in shape. I would add a fourth layer an
 
 The Chair's stack:
 
-text
 
 ```
 EPISTEMIC CAUSAL TRACE
@@ -112,11 +111,8 @@ NORMATIVE EVALUATION
 REMEDIATION OBLIGATION
 ```
 
-svgsvg
-
 I would insert a layer between trace and normative evaluation:
 
-text
 
 ```
 EPISTEMIC CAUSAL TRACE
@@ -127,8 +123,6 @@ NORMATIVE EVALUATION
         ↓
 REMEDIATION OBLIGATION
 ```
-
-svgsvg
 
 The reason is that normative evaluation without a counterfactual baseline is nearly vacuous. "X caused Y" tells us a pathway exists. It does not tell us whether Y is a harm *that X's action made worse* relative to the relevant alternative. Many outcomes that are causally traceable to an action would have occurred anyway, in a different form or through a different pathway. The normative question is not "did X contribute to Y?" but "did X's contribution to Y constitute a harm relative to the alternatives X could have chosen?"
 
@@ -210,7 +204,6 @@ This is the concrete revision I would most strongly press: **power asymmetry in 
 
 I propose a revision to the Chair's candidate architecture that I will call the **Contested Causal Ledger (CCL)**. It has four layers, and the key innovation is that the first layer is not the causal model but the **ontology governance record**.
 
-text
 
 ```
 LAYER 0 — ONTOLOGY GOVERNANCE
@@ -244,8 +237,6 @@ LAYER 4 — REMEDIATION
     monitoring commitments
     epistemic debts
 ```
-
-svgsvg
 
 The key architectural commitments:
 
