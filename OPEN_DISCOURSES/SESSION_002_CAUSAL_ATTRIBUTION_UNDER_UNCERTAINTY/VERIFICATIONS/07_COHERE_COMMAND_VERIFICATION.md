@@ -28,6 +28,6 @@ VERIFIED — faithful record
 
 The corrected first-pass archive is participant-verified as faithful.
 
-Because a non-original substantive summary block was removed, a downstream dependency audit is required before treating the Session 002 verification stage as procedurally closed.
+Because a non-original substantive summary block was removed, a downstream dependency audit was completed. It found no downstream correction necessary.
 
 This verification establishes archival fidelity only. It does not imply endorsement of later cross-critiques, synthesis, ratification, or Final Report.
