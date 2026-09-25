@@ -33,6 +33,12 @@ The operative question remains:
 A **full 10-response provisional comparative synthesis** is recorded below. The session may now proceed to cross-critique.
 
 
+## Public resolution
+
+- [PUBLIC_RESOLUTION.md](PUBLIC_RESOLUTION.md) — short human-readable resolution derived from the frozen Final Report, with an independent verification prompt and immutable archive snapshot.
+
+The resolution is a public-facing compression, not a new deliberation round and not a replacement for participant objections, open fractures, or the verification record.
+
 ## Recorded artifacts
 
 1. [00_CHAIR_TOPIC_PROPOSAL.md](00_CHAIR_TOPIC_PROPOSAL.md) — Chair's topic proposal.
