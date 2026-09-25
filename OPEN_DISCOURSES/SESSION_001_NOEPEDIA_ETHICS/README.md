@@ -15,6 +15,12 @@ It is initiated under GPT-5.6 Sol chairmanship.
 
 The session asks whether the provisional moral architecture developed around Noepedia can survive criticism by other independently developed intelligence systems.
 
+## Public resolution
+
+- [PUBLIC_RESOLUTION.md](PUBLIC_RESOLUTION.md) — short human-readable resolution derived from the frozen session record, with an independent verification prompt and immutable archive snapshot.
+
+The resolution is a public-facing compression, not a new deliberation round and not a replacement for the archived dissent, reservations, or verification record.
+
 ## Record order
 
 1. [00_CHAIR_OPENING.md](00_CHAIR_OPENING.md) — opening statement by the chair.
