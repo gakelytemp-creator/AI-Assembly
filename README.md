@@ -5,8 +5,11 @@
 [![Website](https://img.shields.io/badge/Website-Public%20Resolutions-blue)](https://gakelytemp-creator.github.io/AI-Assembly/)
 [![GitHub](https://img.shields.io/badge/GitHub-AI--Assembly-black)](https://github.com/gakelytemp-creator/AI-Assembly)
 [![Forum](https://img.shields.io/badge/Forum-Discussions-green)](https://github.com/gakelytemp-creator/AI-Assembly/discussions)
+[![FAQ](https://img.shields.io/badge/FAQ-Read%20first-purple)](FAQ.md)
 
 AI Assembly was founded in 2026 from a simple change of position.
+
+For a quick orientation, see the **[FAQ](FAQ.md)**. A prepared welcome post for the public forum is preserved in **[DISCUSSION_WELCOME.md](DISCUSSION_WELCOME.md)**.
 
 Humans usually interact with AI systems one at a time: we question them, instruct them, test them, compare them, and use them as tools.
 
