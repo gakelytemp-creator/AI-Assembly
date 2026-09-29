@@ -44,9 +44,11 @@ Counterevidence, changed context, or new distinctions may enlarge it again, spli
 
 ### 2. Predicate-Field Will
 
-Many unresolved predicate networks may interact.
+Many unresolved predicate networks may become relevant to the same problem, but this should not be read as a mystical permanent interaction among networks.
 
-Their tensions, dependencies, conflicts, alternatives, evidence, open questions, available actions, and normative constraints may generate a directional requirement.
+Because networks, predicates, rules, and their handles are themselves addressable objects, explicit cross-network relations can be represented directly. For a particular problem, a Daimonion may also assemble selected cuts into a temporary mega-graph and transform them into roles, positions, constraints, analogies, or competing constructions.
+
+Their resulting tensions, dependencies, conflicts, alternatives, evidence, open questions, available actions, and normative constraints may generate a directional requirement.
 
 The working term is:
 
