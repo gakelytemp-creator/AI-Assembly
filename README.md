@@ -177,3 +177,7 @@ Several methodological constraints sharpened in AI Assembly — especially **agr
 Noepedia may internally use many Daimonion processes; that is irrelevant to the protected-room experiment unless a future preregistration explicitly studies such an architecture.
 
 > **Assembly preserves the encounter. Noepedia may preserve what later becomes reusable knowledge from the encounter.**
+
+### Scientific context for shared Noepedia mechanisms
+
+Where this project touches Noepedia mechanisms such as reconstruction, prediction mismatch, active learning, meta-layers, decoupling, or model-based regulation, earlier scientific precedents and the differences from Noepedia are tracked centrally in [Noepedia — Scientific Context and References](https://github.com/gakelytemp-creator/Noepedia/blob/main/SCIENTIFIC_CONTEXT_AND_REFERENCES.md). This link is for historical and methodological context; it does not imply that those earlier works validate this domain project or Noepedia as a whole.
