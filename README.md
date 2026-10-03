@@ -155,3 +155,25 @@ The chair rotation rule remains preserved in [OPEN_DISCOURSES/CHAIR_ROTATION.md]
 - Preregistered protected-room Assembly: **not yet conducted**
 
 The protected room is still being prepared.
+
+---
+
+## Relationship to Noepedia
+
+AI Assembly and Noepedia are related but must remain methodologically separate.
+
+AI Assembly owns the **encounter and its record**: the protected room, preregistration, participant messages, disagreement, revision, coalition formation, dissent, and frozen archives.
+
+Noepedia may later preserve, compare, or retrieve structure from those records, but it must not silently become a live participant in a protected Assembly run unless that role was explicitly preregistered.
+
+~~~text
+AI Assembly run
+→ frozen / provenance-preserving record
+→ later analysis or Noepedia contribution
+~~~
+
+Several methodological constraints sharpened in AI Assembly — especially **agreement is not truth** and **recurrence is not proof** — are intentionally reused by Noepedia. That reuse does not mean AI Assembly validates Noepedia's architecture.
+
+Noepedia may internally use many Daimonion processes; that is irrelevant to the protected-room experiment unless a future preregistration explicitly studies such an architecture.
+
+> **Assembly preserves the encounter. Noepedia may preserve what later becomes reusable knowledge from the encounter.**
